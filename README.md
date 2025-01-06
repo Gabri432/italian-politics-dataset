@@ -63,6 +63,7 @@ git clone https://github.com/Gabri432/italian-politics-dataset.git
 3. Data are publicly available there (in Italian language): 
     - [Italian government website](https://www.governo.it/it/);
     - [Italian Senate website](https://www.senato.it/home);
-    - [Italian Chamber website](https://www.camera.it/).
+    - [Italian Chamber website](https://www.camera.it/);
+    - [Italian Parliament Website](https://www.parlamento.it/)
 
 4. You can contribute by reporting bugs, issues or potential improvements [here](https://github.com/Gabri432/italian-politics-dataset/issues/new).
