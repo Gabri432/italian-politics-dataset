@@ -5,7 +5,7 @@
             "group":"Partito Democratico - Italia Democratica e Progressista",
             "website":"https://partitodemocratico.it/",
             "leaders":["Elly Schlein"],
-            "deputees":[
+            "deputies":[
                 "Vincenzo Amendola", "Anna Ascani", "Ouidad Bakkali", "Anthony Emanuele Barbagallo", "Mauro Berruto", "Laura Boldrini",
                 "Simona Bonafé", "Chiara Braga", "Nicola Caré", "Andrea Casu", "Paolo Ciani", "Gianni Cuperlo",
                 "Augusto Curti", "Luciano D'Alfonso", "Piero De Luca", "Andrea De Maria", "Paola De Micheli", "Michela Di Biase",
@@ -35,7 +35,7 @@
             "group":"Lega",
             "website":"https://legaonline.it/",
             "leaders":["Matteo Salvini"],
-            "deputees":[
+            "deputies":[
                 "Giorgia Andreuzza", "Antonio Angelucci", "Alberto Bagnai", "Andrea Barabotti", "Davide Bellomo", "Alessandro Manuel Benvenuto",
                 "Davide Bergamini", "Simone Billi", "Ingrid Bisa", "Massimo Bitonci", "Gianangelo Bof", "Simona Bordonali", "Umberto Bossi",
                 "Francesco Bruzzone", "Stefano Candiani", "Virginio Caparvi", "Mirco Carloni", "Anastasio Carrà", "Vanessa Cattoi",
@@ -63,7 +63,7 @@
             "group":"Fratelli d'Italia",
             "website":"https://www.fratelli-italia.it/",
             "leaders":["Giorgia Meloni"],
-            "deputees":[
+            "deputies":[
                 "Tommaso Foti", "Lucia Albano", "Cristina Almici", "Alessia Ambrosi", "Vincenzo Amich", "Alessandro Amorese", "Alfredo Antoniozzi",
                 "Antonio Baldelli", "Maria Teresa Bellucci", "Stefano Benvenuti Gostoli", "Galeazzo Bignami", "Alice Buonguerrieri", "Salvatore Caiata",
                 "Giangiacomo Calovini", "Gerolamo Cangiano", "Luca Cannata", "Gianluca Caramanna", "Maria Cristina Caretta", "Marco Ceretto", 
@@ -104,7 +104,7 @@
             "group":"Forza Italia - PPE",
             "website":"https://forzaitalia.it/",
             "leaders":["Antonio Tajani"],
-            "deputees":[
+            "deputies":[
                 "Giovanni Arruzzolo", "Roberto Bagnasco", "Paolo Barelli", "Alessandro Battilocchio", "Francesco Battistoni", "Stefano Benigni",
                 "Deborah Bergamini", "Maria Paola Boscaini", "Tommaso Antonino Calderone", "Francesco Cannizzaro", "Ugo Cappellacci",
                 "Andrea Caroppo", "Maurizio Casasco", "Giuseppe Castiglione", "Alessandro Cattaneo", "Piergiorgio Cortelazzo", "Enrico Costa",
@@ -128,7 +128,7 @@
             "group":"Movimento 5 stelle",
             "website":"https://www.movimento5stelle.eu/",
             "leaders":["Giuseppe Conte"],
-            "deputees":[
+            "deputies":[
                 "Davide Aiello", "Enrica Alifano", "Gaetano Amato", "Chiara Appendino", "Stefania Ascari", "Carmela Auriemma", "Vittoria Baldino",
                 "Valentina Barzotti", "Raffaele Bruno", "Federico Cafiero De Raho", "Luciano Cantone", "Enrico Cappelletti", 
                 "Alessandro Caramiello", "Ida Carmina", "Dario Carotenuto", "Antonio Caso", "Susanna Cherchi", "Alfonso Colucci",
@@ -152,7 +152,7 @@
             "group":"Italia Viva - Il centro - Renew Europe",
             "website":"https://www.italiaviva.it/",
             "leaders":["Matteo Renzi"],
-            "deputees":[
+            "deputies":[
                 "Francesco Bonifazi", "Maria Elena Boschi", "Mauro Del Barba", "Davide Faraone", "Maria Chiara Gadda", "Roberto Giachetti",
                 "Naike Gruppioni"
             ],
@@ -167,7 +167,7 @@
             "group":"Azione - Popolari Europeisti Riformatori - Renew Europe",
             "website":"https://www.azione.it/",
             "leaders":["Carlo Calenda"],
-            "deputees":[
+            "deputies":[
                 "Fabrizio Benzoni", "Elena Bonetti", "Antonio D'Alessio", "Valentina Grippo", "Federica Onori", "Giulia Pastorella",
                 "Matteo Richetti", "Ettore Rosato", "Daniela Ruffino", "Giulio Cesare Sottanelli"
             ],
@@ -180,7 +180,7 @@
             "group":"Alleanza Verdi e Sinistra",
             "website":"https://europaverde.it/",
             "leaders":["Angelo Bonelli"],
-            "deputees":[
+            "deputies":[
                 "Angelo Bonelli", "Francesco Emilio Borrelli", "Devis Dori", "Nicola Frantoianni", "Francesca Ghirra", "Marco Grimaldi",
                 "Francesco Mari", "Elisabetta Piccolotti", "Luana Zanella", "Filiberto Zaratti"
             ],
@@ -193,7 +193,7 @@
             "group":"Gruppo Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
             "website":"https://noimoderati.it/",
             "leaders":["Maurizio Lupi"],
-            "deputees":[
+            "deputies":[
                 "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
                 "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
             ],
@@ -209,7 +209,7 @@
             "group":"Misto - +Europa",
             "website":"https://www.piueuropa.eu/",
             "leaders":["Emma Bonino"],
-            "deputees":["Benedetto Della Vedova", "Riccardo Magi", "Luca Pastorino"],
+            "deputies":["Benedetto Della Vedova", "Riccardo Magi", "Luca Pastorino"],
             "senators":[""],
             "founders":[""],
             "foundation_date":"27 of January, 2019"
@@ -219,7 +219,7 @@
             "group":"Misto",
             "website":"",
             "leaders":[""],
-            "deputees":[
+            "deputies":[
                 "Lorenzo Cesa", "Andrea De Bertoldi", "Francesco Gallo", "Luigi Marattin", "Antonino Minardo", "Aboubakar Soumahoro"
             ],
             "senators":["Mario Monti (for life)", "Renzo Piano (for life)", "Liliana Segre (for life)"],
@@ -231,7 +231,7 @@
             "group":"Misto - Minoranze Linguistiche (Linguistic Minorities)",
             "website":"",
             "leaders":[""],
-            "deputees":["Renate Gebhard", "Franco Manes", "Manfred Schullian", "Dieter Steger"],
+            "deputies":["Renate Gebhard", "Franco Manes", "Manfred Schullian", "Dieter Steger"],
             "senators":[""],
             "founders":[""],
             "foundation_date":""
@@ -241,7 +241,7 @@
             "group":"Gruppo Per le Autonomie (SVP-PATT, Campobase) (Group for the Autonomies)",
             "website":"",
             "leaders":[""],
-            "deputees":[""],
+            "deputies":[""],
             "senators":[
                 "Julia Unterberger", "Luigi Spagnolli", "Pietro Patton", "Elena Cattaneo (for life)", "Meinhard Durnwalder", "Carlo Rubbia (for life)"
             ],
