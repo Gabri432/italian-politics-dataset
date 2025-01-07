@@ -1,0 +1,224 @@
+{
+    "politicians":[
+        {
+            "name":"Giorgia Meloni",
+            "party": "Fratelli d'Italia",
+            "roles":["Italian Prime Minister", "Co-founder of Fratelli d'Italia", "Leader of Fratelli d'Italia"]
+        },
+        {
+            "name":"Matteo Salvini",
+            "party":"Lega",
+            "roles":["Leader of Lega", "Minister of Infrastructure and Transportation", "Vice-Prime Minister"]
+        },
+        {
+            "name":"Antonio Tajani",
+            "party":"Forza Italia",
+            "roles":["Vice-Prime Minister", "Leader of Forza Italia", "Foreign Minister"]
+        },
+        {
+            "name":"Luca Ciriani",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister for Relations with Parliament"]
+        },
+        {
+            "name":"Paolo Zangrillo",
+            "party":"Forza Italia",
+            "roles":["Minister of Public Administration"]
+        },
+        {
+            "name":"Roberto Calderoli",
+            "party":"Lega",
+            "roles":["Minister for Regional Affairs and Autonomies"]
+        },
+        {
+            "name":"Nello Musumeci",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister for Civil Protection and Maritime Policies"]
+        },
+        {
+            "name":"Andrea Abodi",
+            "party":"indipendent",
+            "roles":["Minister for Sport and Youth"]
+        },
+        {
+            "name":"Eugenia Maria Roncella",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister for Equal Opportunities and Family"]
+        },
+        {
+            "name":"Maria Elisabetta Alberti Casellati",
+            "party":"Forza Italia",
+            "roles":["Minister for Institutional Reforms"]
+        },
+        {
+            "name":"Alessandra Locatelli",
+            "party":"Lega",
+            "roles":["Minister for Disabilities"]
+        },
+        {
+            "name":"Tommaso Foti",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister for European Affairs, Southern Italy, Cohesion Policy and the NRRP of Italy"]
+        },
+        {
+            "name":"Matteo Piantedosi",
+            "party":"indipendent",
+            "roles":["Minister of the Interior"]
+        },
+        {
+            "name":"Carlo Nordio",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister of Justice"]
+        },
+        {
+            "name":"Guido Crosetto",
+            "party":"Fratelli d'Italia",
+            "roles":["Co-founder of Fratelli d'Italia", "Minister of Defence"]
+        },
+        {
+            "name":"Giancarlo Giorgetti",
+            "party":"Lega",
+            "roles":["Minister of Economy and Finance"]
+        },
+        {
+            "name":"Adolfo Urso",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister of Economic Development"]
+        },
+        {
+            "name":"Francesco Lollobridiga",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister of Agriculture"]
+        },
+        {
+            "name":"Giliberto Pichetto Fratin",
+            "party":"Forza Italia",
+            "roles":["Minister of the Environment and Energy Security"]
+        },
+        {
+            "name":"Marina Elvira Calderone",
+            "party":"Forza Italia",
+            "roles":["Minister of Labour and Social Policies"]
+        },
+        {
+            "name":"Giuseppe Valditara",
+            "party":"Lega",
+            "roles":["Minister of Education and Merit"]
+        },
+        {
+            "name":"Anna Maria Bernini",
+            "party":"Forza Italia",
+            "roles":["Minister of University and Research"]
+        },
+        {
+            "name":"Alessandro Giuli",
+            "party":"indipendent",
+            "roles":["Minister of Culture"]
+        },
+        {
+            "name":"Daniela Santanchè",
+            "party":"Fratelli d'Italia",
+            "roles":["Minister of Tourism"]
+        },
+        {
+            "name":"Orazio Schillaci",
+            "party":"indipendent",
+            "roles":["Minister of Health"]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"",
+            "party":"",
+            "roles":[""]
+        },
+        {
+            "name":"Elly Schlein",
+            "party":"Partito Democratico",
+            "roles":["Leader of Partito Democratico"]
+        }
+    ]
+}
