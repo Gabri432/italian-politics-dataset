@@ -1,154 +1,4910 @@
 {
     "politicians":[
         {
-            "name":"Giorgia Meloni",
+            "name": "Vincenzo Amendola",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anna Ascani",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ouidad Bakkali",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anthony Emanuele Barbagallo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro Berruto",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Laura Boldrini",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simona Bonafé",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Chiara Braga",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Caré",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Casu",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Ciani",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianni Cuperlo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Augusto Curti",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luciano D'Alfonso",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Piero De Luca",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea De Maria",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paola De Micheli",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michela Di Biase",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Christian Diego Di Sanzo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Eleonora Evi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Piero Fassino",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sara Ferrari",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rossana Filippin",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonella Forattini",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federico Fornaro",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Emiliano Fossi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Furfaro",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valentina Ghio",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federico Giannassi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gian Antonio Girelli",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Gnassi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Graziano",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Chiara Gribuado",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lorenzo Guerini",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Cecilia Guerra",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanna Iacono",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Lacarra",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvio Lai",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro Antonio Donato Laus",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Anna Madia",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ilenia Malavasi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Mancini",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Irene Manzi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Stefania Marino",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Mauri",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Virginio Merola",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Morassut",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Orfini",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Orlando",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ubaldo Pagano",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vinicio Giuseppe Guido Peluffo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabio Porta",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Patrizia Prestipino",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giuseppe Provenzano",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lia Quartapelle Procopio",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Toni Ricciardi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvia Roggiani",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nadia Romeo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Rossi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Sarracino",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rachele Scarpa",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elly Schlein",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee", "Leader of Partito Democratico"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Arturo Scotto",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Debora Serrachiani",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Simiani",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Speranza",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Michele Stefanazzi",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Stumpo",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Bruno Tabacci",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Vaccari",
+            "party": "Partito Democratico",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Boccia",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alfredo Bazoli",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Beatrice Lorenzin",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Franco Mirabelli",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Nicita",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lorenzo Basso",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Cecilia D'Elia",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sandra Zampa",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Irto",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ylenia Zambito",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Alfieri",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Susanna Lina Giulia Camusso",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Pier Ferdinando Casini",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Crisanti",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Graziano Crisanti",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michele Fina",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvio Franceschelli",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Franceschini",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Annamaria Furlan",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Giacobbe",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Giorgis",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesca La Marca",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alberto Losacco",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simona Flavia Malpezzi",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniele Manca",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Martella",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Meloni",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Misani",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Parrini",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vincenza Rando",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tatjana Rojc",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anna Rossomando",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Filippo Sensi",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Cristina Tajani",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valeria Valente",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Verducci",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Walter Verini",
+            "party": "Partito Democratico",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgia Andreuzza",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Angelucci",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alberto Bagnai",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Barabotti",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Davide Bellomo",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Manuel Benvenuto",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Davide Bergamini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simone Billi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ingrid Bisa",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimo Bitonci",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianangelo Bof",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simona Bordonali",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Umberto Bossi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Bruzzone",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Candiani",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Virginio Caparvi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mirco Carloni",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anastasio Carrà",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vanessa Cattoi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Laura Cavandoli",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabrizio Cecchetti",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulio Cementero",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dimitri Coin",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvana Andreina Comaroli",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Crippa",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Dara",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Salvatore Marcello Di Mattina",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lorenzo Fontana",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Formentini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rebecca Frassini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federico Freni",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Domenico Furgiuele",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vannia Gava",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Giaccone",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Giagoni",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Giglio Vigna",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giancarlo Giorgetti",
+            "party": "Lega",
+            "roles": [
+                "deputee", "Minister of Economy and Finance"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Alberto Luigi Gusmeroli",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Igor Iezzi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgia Latini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Arianna Lazzarini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simona Loizzo",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Maccanti",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Augusto Marchetti",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simonetta Matone",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanna Miele",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Molinari",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Molteni",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisa Montemagni",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Jacopo Morrone",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tiziana Nisini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Ottaviani",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimiliano Panizzut",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Attilio Piero",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Graziano Pizzimenti",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Erik Umberto Pretto",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Laura Ravetto",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Edoardo Rixi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rossano Sasso",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alberto Stefani",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valeria Sudano",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Toccalini",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Edoardo Ziello",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianpiero Zinzi",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Eugenio Zoffili",
+            "party": "Lega",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimiliano Romeo",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mara Bizzotto",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonino Germanà",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Borghesi",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgio Maria Bergesio",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulia Bongiorno",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Borghi",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lucia Borgonzoni",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Calderoli",
+            "party": "Lega",
+            "roles": [
+                "senator", "Minister for Regional Affairs and Autonomies"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Gianluca Cantalamessa",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Cristina Cantù",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gian Marco Centinaio",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Dreosto",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Duringon",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimo Garavaglia",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Marti",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tilde Minasi",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Morelli",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Murelli",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Ostellari",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Paganella",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daisy Pirovano",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Manfredi Potenti",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefania Pucciarelli",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Salvini",
+            "party": "Lega",
+            "roles": [
+                "senator", "Leader of Lega", "Minister of Infrastructure and Transportation", "Vice-Prime Minister"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Nicoletta Spelgatti",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Erika Stefani",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Testor",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Tosato",
+            "party": "Lega",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tommaso Foti",
             "party": "Fratelli d'Italia",
-            "roles":["Italian Prime Minister", "Co-founder of Fratelli d'Italia", "Leader of Fratelli d'Italia"],
-            "category":"minister"
+            "roles": [
+                "deputee", "Minister for European Affairs, Southern Italy, Cohesion Policy and the NRRP of Italy"
+            ],
+            "category": "minister"
         },
         {
-            "name":"Matteo Salvini",
-            "party":"Lega",
-            "roles":["Leader of Lega", "Minister of Infrastructure and Transportation", "Vice-Prime Minister"],
-            "category":"minister"
+            "name": "Lucia Albano",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
         },
         {
-            "name":"Antonio Tajani",
-            "party":"Forza Italia",
-            "roles":["Vice-Prime Minister", "Leader of Forza Italia", "Foreign Minister"],
-            "category":"minister"
+            "name": "Cristina Almici",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
         },
         {
-            "name":"Luca Ciriani",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister for Relations with Parliament"],
-            "category":"minister"
+            "name": "Alessia Ambrosi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
         },
         {
-            "name":"Paolo Zangrillo",
-            "party":"Forza Italia",
-            "roles":["Minister of Public Administration"],
-            "category":"minister"
+            "name": "Vincenzo Amich",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
         },
         {
-            "name":"Roberto Calderoli",
-            "party":"Lega",
-            "roles":["Minister for Regional Affairs and Autonomies"],
-            "category":"minister"
+            "name": "Alessandro Amorese",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
         },
         {
-            "name":"Nello Musumeci",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister for Civil Protection and Maritime Policies"],
-            "category":"minister"
+            "name": "Alfredo Antoniozzi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Baldelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Teresa Bellucci",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Benvenuti Gostoli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Galeazzo Bignami",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alice Buonguerrieri",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Salvatore Caiata",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giangiacomo Calovini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gerolamo Cangiano",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Cannata",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianluca Caramanna",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Cristina Caretta",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Ceretto",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paola Maria Chiesa",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Monica Ciaburro",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Ciancitto",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luciano Ciocchetti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Edmondo Cirielli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Beatriz Colombo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Chiara Colosimo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabrizio Comba",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Saverio Congedo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marcello Coppo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo De Corato",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Salvatore Deidda",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Delmastro Delle Vedove",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Di Giuseppe",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Grazia Di Maggio",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Dondi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanni Donzelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Wanda Ferro",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Filini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaele Fitto",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paola Frassinetti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Grazia Frijia",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisabetta Gardini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marcello Gemmato",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Giordano",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Letizia Giorgianni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvio Giovine",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Iaia",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sara Kelany",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianni Lampis",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Christiana Lancellotta",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giandonato La Salandra",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Chiara La Porta",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maurizio Leo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Lollobrigida",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee", "Minister of Agriculture"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Eliana Longi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Emanuele Loperfido",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ylenia Lucaselli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carlo Maccari",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Umberto Maerna Novo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanni Maiorano",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro Malaguti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lorenzo Malagola",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lucrezia Mantovani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marina Marchetto",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Mascaretti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ciro Maschio",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mariangela Matera",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicole Matteoni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Maullu",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Aldo Mattia",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianmarco Mazzi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgia Meloni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee", "Italian Prime Minister", "Co-founder of Fratelli d'Italia", "Leader of Fratelli d'Italia"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Manlio Messina",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Michelotti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimo Milani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federico Mollicone",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Augusta Montaruli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maddalena Morgante",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Mura",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carlo Nordio",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee", "Minister of Justice"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Marco Osnato",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Padovani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Palombi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Pellicini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Perissa",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabio Pietrella",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Barbara Polo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Emanuele Prisco",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Pulciani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabio Raimondo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabio Rampelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Walter Rizzetto",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Eugenia Roccella",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee", "Minister for Institutional Reforms"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Fabio Roscani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Angelo Rossi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabrizio Rossi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Rosso",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro Rotelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianfranco Rotondi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Massimo Ruspandini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gaetana Russo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Sbardella",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michele Schiano Di Visconti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marta Schifone",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rachele Silvestri",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Guerino Testa",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Trancassini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Tremaglia",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulio Tremonti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Urzì",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carolina Varchi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Imma Vetri",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianluca Vinci",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Volpi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Zucconi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Immacolata Zurzolo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lucio Malan",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paola Ambrogio",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Bartolomeo Amidei",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Renato Ancorotti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Cinzia Pellegrino",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alberto Balboni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michele Barcaiuolo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanni Berrino",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carmela Bucalo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessio Butti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Calderini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Guido Castelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Susanna Donatella Campione",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Ciriani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator", "Minister for Relations with Parliament"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Giulia Cosenza",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca De Carlo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea De Priamo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Costanzo Della Porta",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anna Maria Fallucchi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marta Farolfi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanbattista Fazzolari",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Gelmetti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Iannone",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Patrizio Giacomo La Pietra",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ignazio La Russa",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Leonardi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Guido Quintinio Liris",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Lisei",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianpiero Maffoni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paola Mancini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Mareschi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Domenico Matera",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Filippo Melchiorre",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Menia",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Lavinia Mennuni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ester Mieli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nello Musumeci",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator", "Minister for Civil Protection and Maritime Policies"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Gaetano Nastri",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vita Maria Nocco",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fausto Orsomarso",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marcello Pera",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Simona Petrucci",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Salvo Pogliese",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ernesto Rapani",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sergio Rastrelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Isabella Rauti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianni Rosa",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raoul Russo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Salvatore Sallemi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Garnero Santanchè",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator", "Minister of Tourism"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Giovanni Satta",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Scurria",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Etel Sigismondi",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Silvestroni",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sandro Sisler",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaele Speranzon",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Domenica Spinelli",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulio Terzi di Sant'Agata",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesca Tubetti",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Adolfo Urso",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator", "Minister of Economic Development"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Franco Zaffini",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonella Zedda",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ignazio Zullo",
+            "party": "Fratelli d'Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanni Arruzzolo",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Bagnasco",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Barelli",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Battilocchio",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Battistoni",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Benigni",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Deborah Bergamini",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Paola Boscaini",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tommaso Antonino Calderone",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Cannizzaro",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ugo Cappellacci",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Caroppo",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maurizio Casasco",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giuseppe Castiglione",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Cattaneo",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Piergiorgio Cortelazzo",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Enrico Costa",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Rita Dalla Chiesa",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro D'Attis",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Isabella Monte",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vito De Palma",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marta Antonia Fascina",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tullio Ferrante",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giandiego Gatta",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgio Lovecchio",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giuseppe Tommaso Vincenzo Mangialavori",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Patrizia Marrocco",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Erica Mazzetti",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgio Mulé",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaele Nevi",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Orsini",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nazario Pagano",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Annarita Patriarca",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Pella",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gilberto Fratin Pichetto",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee", "Minister of the Environment and Energy Security"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Pietro Pittalis",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Caita Polidori",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Cristina Rossello",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Maria Rubano",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Emilio Russo",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Jotti Gloria Saccani",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabrizio Sala",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matilde Siracusano",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Sorte",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Squeri",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Tajani",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee", "Vice-Prime Minister", "Leader of Forza Italia", "Foreign Minister"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Rosaria Tassinari",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Charia Tenerini",
+            "party": "Forza Italia",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maurizio Gasparri",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Adriano Paroli",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Rosso",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alberto Baracchini",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Elisabetta Alberti Casellati",
+            "party": "Forza Italia",
+            "roles": [
+                "senator", "Minister for Institutional Reforms"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Anna Maria Bernini",
+            "party": "Forza Italia",
+            "roles": [
+                "senator", "Minister of University and Research"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Stefania Gabriella Anastasia Craxi",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Damiani",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaele De Rosa",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Fazzone",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Adriano Galliani",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Claudio Lotito",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mario Occhiuto",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Licia Ronzulli",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Silvestro",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Paolo Sisto",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Ternullo",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Salvatore Trevisi",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Pierantonio Zanettin",
+            "party": "Forza Italia",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Paolo Zangrillo",
+            "party": "Forza Italia",
+            "roles": [
+                "senator", "Minister of Public Administration"
+            ],
+            "category": "minister"
+        },
+        {
+            "name": "Davide Aiello",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Enrica Alifano",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gaetano Amato",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Chiara Appendino",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefania Ascari",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carmela Auriemma",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vittoria Baldino",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valentina Barzotti",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaele Bruno",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federico Cafiero De Raho",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luciano Cantone",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Enrico Cappelletti",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Caramiello",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ida Carmina",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dario Carotenuto",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Caso",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Susanna Cherchi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alfonso Colucci",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giuseppe Conte",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sergio Costa",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gianmauro Dell'Olio",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carmen Di Lauro",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Leonardo Donno",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valentina D'Orso",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgio Fede",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Emiliano Fenu",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Ferrara",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ilaria Fontana",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carla Giuliano",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michele Giubitosa",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonino Iara",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Patty L'Abbate",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Arnaldo Lomuti",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Morfino",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anna Laura Orrico",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Emma Pavanelli",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Pellegrini",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Pasqualino Penza",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Andrea Quartini",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Angela Raffa",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marianna Ricciardi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Ricciardi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Agostino Santillo",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Filippo Scerra",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisa Scutellà",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Silvestri",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gilda Sportiello",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Torto",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Traversi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Tucci",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Stefano Patuanelli",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandra Maiorino",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gabriella Di Girolamo",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luigi Nave",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisa Pirro",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Vincenza Aloisio",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dolores Bevilacqua",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Anna Bilotti",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Domenica Castellone",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Cataldi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Croatti",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Concetta Damante",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Barbara Guidolin",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ettore Antonio Licheri",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Sabrina Licheri",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ada Lopreiato",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Pietro Lorefice",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Bruno Marton",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Orfeo Mazzella",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Gisella Naturale",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Pirondini",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Maria Ferdinando Scarpinato",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Sironi",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mario Turco",
+            "party": "MoVimento 5 stelle",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Bonifazi",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Elena Boschi",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mauro Del Barba",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Davide Faraone",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Chiara Gadda",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Roberto Giachetti",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Naike Gruppioni",
+            "party": "Italia Viva",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Enrico Borghi",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Silvia Fregolent",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ivan Scalfarotto",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Dafne Musolino",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Raffaella Paita",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Renzi",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Sbrollini",
+            "party": "Italia Viva",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Fabrizio Benzoni",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elena Bonetti",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio D'Alessio",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Valentina Grippo",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Federica Onori",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulia Pastorella",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Matteo Richetti",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ettore Rosato",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Daniela Ruffino",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giulio Cesare Sottanelli",
+            "party": "Azione",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Carlo Calenda",
+            "party": "Azione",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Lombardo",
+            "party": "Azione",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Angelo Bonelli",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Emilio Borrelli",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Devis Dori",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Frantoianni",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesca Ghirra",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Grimaldi",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Mari",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisabetta Piccolotti",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luana Zanella",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Filiberto Zaratti",
+            "party": "Europa Verde",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "",
+            "party": "Europa Verde",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Angelo Bonelli",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Emilio Borrelli",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Devis Dori",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Nicola Frantoianni",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesca Ghirra",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Marco Grimaldi",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Mari",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Elisabetta Piccolotti",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luana Zanella",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Filiberto Zaratti",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Peppe De Cristofaro",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Aurora Floridia",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Tino Magni",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ilaria Cucchi",
+            "party": "Sinistra Italiana",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Pino Bicchielli",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michela Brambilla Vittoria",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maria Rosaria Carfagna",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Ilaria Cavo",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Alessandro Colucci",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Maurizio Lupi",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Calogero Pisano",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Francesco Saverio Romano",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Martina Semenzato",
+            "party": "Noi Moderati",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Michaela Biancofiore",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio de Poli",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giorgio Salvitti",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giovanna Petrenga",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mario Alejandro Borghese",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Mariastella Gelmini",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Antonio Guidi",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Giusy Versace",
+            "party": "Noi Moderati",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Benedetto Della Vedova",
+            "party": "+Europa",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Riccardo Magi",
+            "party": "+Europa",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "Luca Pastorino",
+            "party": "+Europa",
+            "roles": [
+                "deputee"
+            ],
+            "category": "parliamentarian"
+        },
+        {
+            "name": "",
+            "party": "+Europa",
+            "roles": [
+                "senator"
+            ],
+            "category": "parliamentarian"
         },
         {
             "name":"Andrea Abodi",
             "party":"indipendent",
-            "roles":["Minister for Sport and Youth"],
-            "category":"minister"
-        },
-        {
-            "name":"Eugenia Maria Roncella",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister for Equal Opportunities and Family"],
-            "category":"minister"
-        },
-        {
-            "name":"Maria Elisabetta Alberti Casellati",
-            "party":"Forza Italia",
-            "roles":["Minister for Institutional Reforms"],
+            "roles":[
+                "Minister for Sport and Youth"
+            ],
             "category":"minister"
         },
         {
             "name":"Alessandra Locatelli",
             "party":"Lega",
-            "roles":["Minister for Disabilities"],
-            "category":"minister"
-        },
-        {
-            "name":"Tommaso Foti",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister for European Affairs, Southern Italy, Cohesion Policy and the NRRP of Italy"],
+            "roles":[
+                "Minister for Disabilities"
+            ],
             "category":"minister"
         },
         {
             "name":"Matteo Piantedosi",
             "party":"indipendent",
-            "roles":["Minister of the Interior"],
-            "category":"minister"
-        },
-        {
-            "name":"Carlo Nordio",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister of Justice"],
+            "roles":[
+                "Minister of the Interior"
+            ],
             "category":"minister"
         },
         {
             "name":"Guido Crosetto",
             "party":"Fratelli d'Italia",
-            "roles":["Co-founder of Fratelli d'Italia", "Minister of Defence"],
-            "category":"minister"
-        },
-        {
-            "name":"Giancarlo Giorgetti",
-            "party":"Lega",
-            "roles":["Minister of Economy and Finance"],
-            "category":"minister"
-        },
-        {
-            "name":"Adolfo Urso",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister of Economic Development"],
-            "category":"minister"
-        },
-        {
-            "name":"Francesco Lollobridiga",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister of Agriculture"],
-            "category":"minister"
-        },
-        {
-            "name":"Giliberto Pichetto Fratin",
-            "party":"Forza Italia",
-            "roles":["Minister of the Environment and Energy Security"],
+            "roles":[
+                "Co-founder of Fratelli d'Italia", "Minister of Defence"
+            ],
             "category":"minister"
         },
         {
             "name":"Marina Elvira Calderone",
             "party":"Forza Italia",
-            "roles":["Minister of Labour and Social Policies"],
+            "roles":
+            ["Minister of Labour and Social Policies"
+        ],
             "category":"minister"
         },
         {
             "name":"Giuseppe Valditara",
             "party":"Lega",
-            "roles":["Minister of Education and Merit"],
-            "category":"minister"
-        },
-        {
-            "name":"Anna Maria Bernini",
-            "party":"Forza Italia",
-            "roles":["Minister of University and Research"],
+            "roles":[
+                "Minister of Education and Merit"
+            ],
             "category":"minister"
         },
         {
             "name":"Alessandro Giuli",
             "party":"indipendent",
-            "roles":["Minister of Culture"],
-            "category":"minister"
-        },
-        {
-            "name":"Daniela Santanchè",
-            "party":"Fratelli d'Italia",
-            "roles":["Minister of Tourism"],
+            "roles":[
+                "Minister of Culture"
+            ],
             "category":"minister"
         },
         {
             "name":"Orazio Schillaci",
             "party":"indipendent",
-            "roles":["Minister of Health"],
+            "roles":[
+                "Minister of Health"
+            ],
             "category":"minister"
+        },
+        {
+            "name":"Mario Monti",
+            "party":"others",
+            "roles":["senator (for life)"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Renzo Piano",
+            "party":"others",
+            "roles":["senator (for life)"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Liliana Segre",
+            "party":"others",
+            "roles":["senator (for life)"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Elena Cattaneo",
+            "party":"others",
+            "roles":["senator (for life)"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Carlo Rubbia",
+            "party":"others",
+            "roles":["senator (for life)"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Julia Unterberger",
+            "party":"others",
+            "roles":["senator"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Luigi Spagnolli",
+            "party":"others",
+            "roles":["senator"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Pietro Patton",
+            "party":"others",
+            "roles":["senator"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Meinhard Durnwalder",
+            "party":"others",
+            "roles":["senator"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Lorenzo Cesa",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Andrea De Bertoldi",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Francesco Gallo",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Luigi Marattin",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Antonino Minardo",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
+        },
+        {
+            "name":"Aboubakar Soumahoro",
+            "party":"others",
+            "roles":["deputee"],
+            "category":"parliamentarian"
         },
         {
             "name":"Marco Marsilio",
@@ -205,6 +4961,12 @@
             "category":"regional president"
         },
         {
+            "name":"Francesco Acquaroli",
+            "party":"Fratelli d'Italia",
+            "roles":["President of Marche Region"],
+            "category":"regional president"
+        },
+        {
             "name":"Francesco Roberti",
             "party":"Forza Italia",
             "roles":["President of Molise Region"],
@@ -225,7 +4987,7 @@
         {
             "name":"Alessandra Todde",
             "party":"Movimento 5 stelle",
-            "roles":["President of Sardinia"],
+            "roles":["President of Sardegna Region"],
             "category":"regional president"
         },
         {
@@ -263,12 +5025,6 @@
             "party":"Lega",
             "roles":["President of Veneto Region"],
             "category":"regional president"
-        },
-        {
-            "name":"Elly Schlein",
-            "party":"Partito Democratico",
-            "roles":["Leader of Partito Democratico"],
-            "category":"opposition"
         }
     ]
 }
