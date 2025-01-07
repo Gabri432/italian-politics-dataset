@@ -30,10 +30,17 @@ root
 -- v0 (unstable data structure)
 ---- v0/italian_parties.json
 ---- v0/italian_politicians.json
+---- v0/scripts/ (folder containing scripts for version 0)
+------ scripts/print_parties.py (prints parties)
+------ scripts/print_politicians.py (prints politicians)
+
 
 -- v1 (future stable data structure)
 ---- v1/italian_parties.json
 ---- v1/italian_politicians.json
+---- v1/scripts/ (folder containing scripts for version 1, each folder will have its own set of scripts)
+------ scripts/print_parties.py (prints parties)
+------ scripts/print_politicians.py
 ```
 
 ## Json Structure
@@ -72,16 +79,26 @@ For a political figure:
 
 ## How to use it
 
-To clone the repository:
+1. To clone the repository:
 ```
 git clone https://github.com/Gabri432/italian-politics-dataset.git
 ```
+
+2. To print parties:
+```
+python v0/scripts/print_parties.py
+```
+
+3. To print politicians:
+```
+python v0/scripts/print_politicians.py
+``` 
 
 
 ## NOTES
 1. This project is under the CC BY-SA 4.0 [license](https://github.com/Gabri432/italian-politics-dataset?tab=CC-BY-SA-4.0-1-ov-file).
 
-2. This project was not intended for commercial use.
+2. This project was not intended/focused for commercial use during its development, be cautious if you intend to use it for such purpose.
 
 3. Data are publicly available there (in Italian language): 
     - [Italian government website](https://www.governo.it/it/);
