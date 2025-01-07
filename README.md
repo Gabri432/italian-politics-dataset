@@ -4,7 +4,7 @@ List of some of the most important Italian (currenlty active) parties and politi
 The list primarly includes:
 
 - ministers;
-- deputees;
+- deputies;
 - senators;
 - regional presidents.
 
@@ -19,7 +19,7 @@ The parties included are:
 - +Europa;
 - Partito Democratico;
 - Alleanza Verdi e Sinistra;
-- others, deputees or senators classified in group Misto (Mixed), including Minoranze Linguistiche (Linguistic Minorities), and Gruppo Per le Autonomie (SVP-PATT, Campobase) (Group for the Autonomies).
+- others, deputies or senators classified in group Misto (Mixed), including Minoranze Linguistiche (Linguistic Minorities), and Gruppo Per le Autonomie (SVP-PATT, Campobase) (Group for the Autonomies).
 
 ## Project layout
 ```
@@ -46,7 +46,7 @@ For a party:
             "group":"Partito Democratico - Italia Democratica e Progressista",
             "website":"https://...",
             "leaders":["Elly Schlein"],
-            "deputees":["..."],
+            "deputies":["..."],
             "senators":["..."],
             "founders":["..."],
             "foundation_date":"14th of October, 2007"
