@@ -6,7 +6,7 @@
             "leaders":["Elly Schlein"],
             "deputees":[
                 "Vincenzo Amendola", "Anna Ascani", "Ouidad Bakkali", "Anthony Emanuele Barbagallo", "Mauro Berruto", "Laura Boldrini",
-                "Simona Bonafé", "Chiara Braga", "Nicola Caré", "Giuseppe Castiglione", "Andrea Casu", "Paolo Ciani", "Gianni Cuperlo",
+                "Simona Bonafé", "Chiara Braga", "Nicola Caré", "Andrea Casu", "Paolo Ciani", "Gianni Cuperlo",
                 "Augusto Curti", "Luciano D'Alfonso", "Piero De Luca", "Andrea De Maria", "Paola De Micheli", "Michela Di Biase",
                 "Christian Diego Di Sanzo", "Eleonora Evi", "Piero Fassino", "Sara Ferrari", "Rossana Filippin", "Antonella Forattini",
                 "Federico Fornaro", "Emiliano Fossi", "Marco Furfaro", "Valentina Ghio", "Federico Giannassi", "Gian Antonio Girelli",
@@ -59,7 +59,7 @@
                 "Giandonato La Salandra", "Chiara La Porta", "Maurizio Leo", "Francesco Lollobrigida", "Eliana Longi", "Emanuele Loperfido",
                 "Ylenia Lucaselli", "Carlo Maccari", "Umberto Maerna Novo", "Giovanni Maiorano", "Mauro Malaguti", "Lorenzo Malagola", 
                 "Lucrezia Mantovani", "Marina Marchetto", "Andrea Mascaretti", "Ciro Maschio", "Mariangela Matera", "Nicole Matteoni", "Stefano Maullu",
-                "Aldo Mattia", "Gianmarco Mazzi", "Manlio Messina", "Francesco Michelotti", "Massimo Milani", "Federico Mollicone", "Augusta Montaruli",
+                "Aldo Mattia", "Gianmarco Mazzi", "Giorgia Meloni","Manlio Messina", "Francesco Michelotti", "Massimo Milani", "Federico Mollicone", "Augusta Montaruli",
                 "Maddalena Morgante", "Francesco Mura", "Carlo Nordio", "Marco Osnato", "Marco Padovani", "Alessandro Palombi", "Andrea Pellicini",
                 "Marco Perissa", "Fabio Pietrella", "Barbara Polo", "Emanuele Prisco", "Paolo Pulciani", "Fabio Raimondo", "Fabio Rampelli", 
                 "Walter Rizzetto", "Eugenia Roccella", "Fabio Roscani", "Angelo Rossi", "Fabrizio Rossi", "Matteo Rosso", "Mauro Rotelli", 
@@ -87,10 +87,19 @@
             "name":"Forza Italia",
             "website":"https://...",
             "leaders":["Antonio Tajani"],
-            "deputees":[""],
+            "deputees":[
+                "Giovanni Arruzzolo", "Roberto Bagnasco", "Paolo Barelli", "Alessandro Battilocchio", "Francesco Battistoni", "Stefano Benigni",
+                "Deborah Bergamini", "Maria Paola Boscaini", "Tommaso Antonino Calderone", "Francesco Cannizzaro", "Ugo Cappellacci",
+                "Andrea Caroppo", "Maurizio Casasco", "Giuseppe Castiglione", "Alessandro Cattaneo", "Piergiorgio Cortelazzo", "Enrico Costa",
+                "Rita Dalla Chiesa", "Mauro D'Attis", "Isabella Monte", "Vito De Palma", "Marta Antonia Fascina", "Tullio Ferrante",
+                "Giandiego Gatta", "Giorgio Lovecchio", "Giuseppe Tommaso Vincenzo Mangialavori", "Patrizia Marrocco", "Erica Mazzetti",
+                "Giorgio Mulé", "Raffaele Nevi", "Andrea Orsini", "Nazario Pagano", "Annarita Patriarca", "Roberto Pella", "Gilberto Fratin Pichetto",
+                "Pietro Pittalis", "Caita Polidori", "Cristina Rossello", "Francesco Maria Rubano", "Paolo Emilio Russo", "Jotti Gloria Saccani",
+                "Fabrizio Sala", "Matilde Siracusano", "Alessandro Sorte", "Luca Squeri", "Antonio Tajani", "Rosaria Tassinari", "Charia Tenerini"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Silvio Berlusconi"],
+            "foundation_date":"1994"
         },
         {
             "name":"MoVimento 5 stelle",
