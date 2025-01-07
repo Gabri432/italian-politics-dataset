@@ -1076,7 +1076,7 @@
             "name": "Lorenzo Fontana",
             "party": "Lega",
             "roles": [
-                "deputie"
+                "deputie", "President of the Chamber of Deputies of Italy"
             ],
             "category": "parliamentarian"
         },
@@ -2732,7 +2732,7 @@
             "name": "Ignazio La Russa",
             "party": "Fratelli d'Italia",
             "roles": [
-                "senator"
+                "senator", "President of the Senate"
             ],
             "category": "parliamentarian"
         },
