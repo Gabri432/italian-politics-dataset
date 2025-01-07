@@ -19,7 +19,14 @@
                 "Marco Sarracino", "Rachele Scarpa", "Elly Schlein", "Arturo Scotto", "Debora Serrachiani", "Marco Simiani",
                 "Roberto Speranza", "Claudio Michele Stefanazzi", "Nicola Stumpo", "Bruno Tabacci", "Stefano Vaccari"
             ],
-            "senators":[""],
+            "senators":[
+                "Francesco Boccia", "Alfredo Bazoli", "Beatrice Lorenzin", "Franco Mirabelli", "Antonio Nicita", "Lorenzo Basso", "Cecilia D'Elia",
+                "Sandra Zampa", "Nicola Irto", "Ylenia Zambito", "Alessandro Alfieri", "Susanna Lina Giulia Camusso", "Pier Ferdinando Casini",
+                "Andrea Crisanti", "Graziano Crisanti", "Michele Fina", "Silvio Franceschelli", "Dario Franceschini", "Annamaria Furlan", 
+                "Francesco Giacobbe", "Andrea Giorgis", "Francesca La Marca", "Alberto Losacco", "Simona Flavia Malpezzi", "Daniele Manca",
+                "Andrea Martella", "Marco Meloni", "Antonio Misani", "Dario Parrini", "Vincenza Rando", "Tatjana Rojc", "Anna Rossomando",
+                "Filippo Sensi", "Cristina Tajani", "Valeria Valente", "Francesco Verducci", "Walter Verini"
+            ],
             "founders":["Romano Prodi", "Pierluigi Bersani", "Dario Franceschini", "Paolo Gentiloni"],
             "foundation_date":"14th of October, 2007"
         },
