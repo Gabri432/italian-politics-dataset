@@ -138,7 +138,12 @@
                 "Andrea Quartini", "Angela Raffa", "Marianna Ricciardi", "Riccardo Ricciardi", "Agostino Santillo", "Filippo Scerra", 
                 "Elisa Scutellà", "Francesco Silvestri", "Gilda Sportiello", "Daniela Torto", "Roberto Traversi", "Riccardo Tucci"
             ],
-            "senators":[""],
+            "senators":[
+                "Stefano Patuanelli", "Alessandra Maiorino", "Gabriella Di Girolamo", "Luigi Nave", "Elisa Pirro", "Vincenza Aloisio",
+                "Dolores Bevilacqua", "Anna Bilotti", "Maria Domenica Castellone", "Roberto Cataldi", "Marco Croatti", "Concetta Damante",
+                "Barbara Guidolin", "Ettore Antonio Licheri", "Sabrina Licheri", "Ada Lopreiato", "Pietro Lorefice", "Bruno Marton",
+                "Orfeo Mazzella", "Gisella Naturale", "Luca Pirondini", "Roberto Maria Ferdinando Scarpinato", "Elena Sironi", "Mario Turco"
+            ],
             "founders":["Beppe Grillo", "Gianmarco Casaleggio"],
             "foundation_date":"4th of October, 2009"
         },
