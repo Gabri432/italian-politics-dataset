@@ -3,227 +3,272 @@
         {
             "name":"Giorgia Meloni",
             "party": "Fratelli d'Italia",
-            "roles":["Italian Prime Minister", "Co-founder of Fratelli d'Italia", "Leader of Fratelli d'Italia"]
+            "roles":["Italian Prime Minister", "Co-founder of Fratelli d'Italia", "Leader of Fratelli d'Italia"],
+            "category":"minister"
         },
         {
             "name":"Matteo Salvini",
             "party":"Lega",
-            "roles":["Leader of Lega", "Minister of Infrastructure and Transportation", "Vice-Prime Minister"]
+            "roles":["Leader of Lega", "Minister of Infrastructure and Transportation", "Vice-Prime Minister"],
+            "category":"minister"
         },
         {
             "name":"Antonio Tajani",
             "party":"Forza Italia",
-            "roles":["Vice-Prime Minister", "Leader of Forza Italia", "Foreign Minister"]
+            "roles":["Vice-Prime Minister", "Leader of Forza Italia", "Foreign Minister"],
+            "category":"minister"
         },
         {
             "name":"Luca Ciriani",
             "party":"Fratelli d'Italia",
-            "roles":["Minister for Relations with Parliament"]
+            "roles":["Minister for Relations with Parliament"],
+            "category":"minister"
         },
         {
             "name":"Paolo Zangrillo",
             "party":"Forza Italia",
-            "roles":["Minister of Public Administration"]
+            "roles":["Minister of Public Administration"],
+            "category":"minister"
         },
         {
             "name":"Roberto Calderoli",
             "party":"Lega",
-            "roles":["Minister for Regional Affairs and Autonomies"]
+            "roles":["Minister for Regional Affairs and Autonomies"],
+            "category":"minister"
         },
         {
             "name":"Nello Musumeci",
             "party":"Fratelli d'Italia",
-            "roles":["Minister for Civil Protection and Maritime Policies"]
+            "roles":["Minister for Civil Protection and Maritime Policies"],
+            "category":"minister"
         },
         {
             "name":"Andrea Abodi",
             "party":"indipendent",
-            "roles":["Minister for Sport and Youth"]
+            "roles":["Minister for Sport and Youth"],
+            "category":"minister"
         },
         {
             "name":"Eugenia Maria Roncella",
             "party":"Fratelli d'Italia",
-            "roles":["Minister for Equal Opportunities and Family"]
+            "roles":["Minister for Equal Opportunities and Family"],
+            "category":"minister"
         },
         {
             "name":"Maria Elisabetta Alberti Casellati",
             "party":"Forza Italia",
-            "roles":["Minister for Institutional Reforms"]
+            "roles":["Minister for Institutional Reforms"],
+            "category":"minister"
         },
         {
             "name":"Alessandra Locatelli",
             "party":"Lega",
-            "roles":["Minister for Disabilities"]
+            "roles":["Minister for Disabilities"],
+            "category":"minister"
         },
         {
             "name":"Tommaso Foti",
             "party":"Fratelli d'Italia",
-            "roles":["Minister for European Affairs, Southern Italy, Cohesion Policy and the NRRP of Italy"]
+            "roles":["Minister for European Affairs, Southern Italy, Cohesion Policy and the NRRP of Italy"],
+            "category":"minister"
         },
         {
             "name":"Matteo Piantedosi",
             "party":"indipendent",
-            "roles":["Minister of the Interior"]
+            "roles":["Minister of the Interior"],
+            "category":"minister"
         },
         {
             "name":"Carlo Nordio",
             "party":"Fratelli d'Italia",
-            "roles":["Minister of Justice"]
+            "roles":["Minister of Justice"],
+            "category":"minister"
         },
         {
             "name":"Guido Crosetto",
             "party":"Fratelli d'Italia",
-            "roles":["Co-founder of Fratelli d'Italia", "Minister of Defence"]
+            "roles":["Co-founder of Fratelli d'Italia", "Minister of Defence"],
+            "category":"minister"
         },
         {
             "name":"Giancarlo Giorgetti",
             "party":"Lega",
-            "roles":["Minister of Economy and Finance"]
+            "roles":["Minister of Economy and Finance"],
+            "category":"minister"
         },
         {
             "name":"Adolfo Urso",
             "party":"Fratelli d'Italia",
-            "roles":["Minister of Economic Development"]
+            "roles":["Minister of Economic Development"],
+            "category":"minister"
         },
         {
             "name":"Francesco Lollobridiga",
             "party":"Fratelli d'Italia",
-            "roles":["Minister of Agriculture"]
+            "roles":["Minister of Agriculture"],
+            "category":"minister"
         },
         {
             "name":"Giliberto Pichetto Fratin",
             "party":"Forza Italia",
-            "roles":["Minister of the Environment and Energy Security"]
+            "roles":["Minister of the Environment and Energy Security"],
+            "category":"minister"
         },
         {
             "name":"Marina Elvira Calderone",
             "party":"Forza Italia",
-            "roles":["Minister of Labour and Social Policies"]
+            "roles":["Minister of Labour and Social Policies"],
+            "category":"minister"
         },
         {
             "name":"Giuseppe Valditara",
             "party":"Lega",
-            "roles":["Minister of Education and Merit"]
+            "roles":["Minister of Education and Merit"],
+            "category":"minister"
         },
         {
             "name":"Anna Maria Bernini",
             "party":"Forza Italia",
-            "roles":["Minister of University and Research"]
+            "roles":["Minister of University and Research"],
+            "category":"minister"
         },
         {
             "name":"Alessandro Giuli",
             "party":"indipendent",
-            "roles":["Minister of Culture"]
+            "roles":["Minister of Culture"],
+            "category":"minister"
         },
         {
             "name":"Daniela Santanchè",
             "party":"Fratelli d'Italia",
-            "roles":["Minister of Tourism"]
+            "roles":["Minister of Tourism"],
+            "category":"minister"
         },
         {
             "name":"Orazio Schillaci",
             "party":"indipendent",
-            "roles":["Minister of Health"]
+            "roles":["Minister of Health"],
+            "category":"minister"
         },
         {
             "name":"Marco Marsilio",
             "party":"Fratelli d'Italia",
-            "roles":["President of Abruzzo Region"]
+            "roles":["President of Abruzzo Region"],
+            "category":"regional president"
         },
         {
             "name":"Vito Bardi",
             "party":"Forza Italia",
-            "roles":["Predisent of Basilicata Region"]
+            "roles":["Predisent of Basilicata Region"],
+            "category":"regional president"
         },
         {
             "name":"Roberto Occhiuto",
             "party":"Forza Italia",
-            "roles":["President of Calabria Region"]
+            "roles":["President of Calabria Region"],
+            "category":"regional president"
         },
         {
             "name":"Vincenzo De Luca",
             "party":"Partito Democratico",
-            "roles":["President of Campania Region"]
+            "roles":["President of Campania Region"],
+            "category":"regional president"
         },
         {
             "name":"Michele De Pascale",
             "party":"Partito Democratico",
-            "roles":["President of Emilia-Romagna Region"]
+            "roles":["President of Emilia-Romagna Region"],
+            "category":"regional president"
         },
         {
             "name":"Massimiliano Fedriga",
             "party":"Lega",
-            "roles":["President of Friuli Venezia Giulia Region"]
+            "roles":["President of Friuli Venezia Giulia Region"],
+            "category":"regional president"
         },
         {
             "name":"Francesco Rocca",
             "party":"indipendent",
-            "roles":["President of Lazio Region"]
+            "roles":["President of Lazio Region"],
+            "category":"regional president"
         },
         {
             "name":"Marco Bucci",
             "party":"indipendent",
-            "roles":["President of Liguria Region"]
+            "roles":["President of Liguria Region"],
+            "category":"regional president"
         },
         {
             "name":"Attilio Fontana",
             "party":"Lega",
-            "roles":["President of Lombardia Region"]
+            "roles":["President of Lombardia Region"],
+            "category":"regional president"
         },
         {
             "name":"Francesco Roberti",
             "party":"Forza Italia",
-            "roles":["President of Molise Region"]
+            "roles":["President of Molise Region"],
+            "category":"regional president"
         },
         {
             "name":"Alberto Cirio",
             "party":"Forza Italia",
-            "roles":["President of Piemonte Region"]
+            "roles":["President of Piemonte Region"],
+            "category":"regional president"
         },
         {
             "name":"Michele Emiliano",
             "party":"Partito Democratico",
-            "roles":["President of Puglia Region"]
+            "roles":["President of Puglia Region"],
+            "category":"regional president"
         },
         {
             "name":"Alessandra Todde",
             "party":"Movimento 5 stelle",
-            "roles":["President of Sardinia"]
+            "roles":["President of Sardinia"],
+            "category":"regional president"
         },
         {
             "name":"Renato Schifani",
             "party":"Forza Italia",
-            "roles":["President of Sicilia Region"]
+            "roles":["President of Sicilia Region"],
+            "category":"regional president"
         },
         {
             "name":"Eugenio Giani",
             "party":"Partito Democratico",
-            "roles":["President of Toscana Region"]
+            "roles":["President of Toscana Region"],
+            "category":"regional president"
         },
         {
             "name":"Arno Kompatscher",
             "party":"Partito Popolare Sudtirolese",
-            "roles":["President of Trentino Alto Adige Region"]
+            "roles":["President of Trentino Alto Adige Region"],
+            "category":"regional president"
         },
         {
             "name":"Stefania Proietti",
             "party":"indipendent",
-            "roles":["President of Umbria Region"]
+            "roles":["President of Umbria Region"],
+            "category":"regional president"
         },
         {
             "name":"Renzo Testolin",
             "party":"Unione Valdostana",
-            "roles":["President of Valle d'Aosta Region"]
+            "roles":["President of Valle d'Aosta Region"],
+            "category":"regional president"
         },
         {
             "name":"Luca Zaia",
             "party":"Lega",
-            "roles":["President of Veneto Region"]
+            "roles":["President of Veneto Region"],
+            "category":"regional president"
         },
         {
             "name":"Elly Schlein",
             "party":"Partito Democratico",
-            "roles":["Leader of Partito Democratico"]
+            "roles":["Leader of Partito Democratico"],
+            "category":"opposition"
         }
     ]
 }

@@ -42,7 +42,8 @@ For a political figure:
         {
             "name":"Giorgia Meloni",
             "party":"Fratelli d'Italia",
-            "roles":["Co-founder of Fratelli d'Italia", "Italian Prime Minister"]
+            "roles":["Co-founder of Fratelli d'Italia", "Italian Prime Minister"],
+            "category":"minister"
         }
     ]
 }
