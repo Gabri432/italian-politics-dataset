@@ -23,12 +23,13 @@ For a party:
     "parties":[
         {
             "name":"Partito Democratico",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
             "website":"https://...",
             "leaders":["Elly Schlein"],
-            "deputees":[""],
-            "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "deputees":["..."],
+            "senators":["..."],
+            "founders":["..."],
+            "foundation_date":"14th of October, 2007"
         },
         {...}
     ]

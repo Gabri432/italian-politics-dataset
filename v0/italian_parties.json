@@ -2,6 +2,7 @@
     "parties":[
         {
             "name":"Partito Democratico",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
             "website":"https://partitodemocratico.it/",
             "leaders":["Elly Schlein"],
             "deputees":[
@@ -24,6 +25,7 @@
         },
         {
             "name":"Lega",
+            "group":"Lega",
             "website":"https://legaonline.it/",
             "leaders":["Matteo Salvini"],
             "deputees":[
@@ -45,6 +47,7 @@
         },
         {
             "name":"Fratelli d'Italia",
+            "group":"Fratelli d'Italia",
             "website":"https://www.fratelli-italia.it/",
             "leaders":["Giorgia Meloni"],
             "deputees":[
@@ -59,13 +62,13 @@
                 "Giandonato La Salandra", "Chiara La Porta", "Maurizio Leo", "Francesco Lollobrigida", "Eliana Longi", "Emanuele Loperfido",
                 "Ylenia Lucaselli", "Carlo Maccari", "Umberto Maerna Novo", "Giovanni Maiorano", "Mauro Malaguti", "Lorenzo Malagola", 
                 "Lucrezia Mantovani", "Marina Marchetto", "Andrea Mascaretti", "Ciro Maschio", "Mariangela Matera", "Nicole Matteoni", "Stefano Maullu",
-                "Aldo Mattia", "Gianmarco Mazzi", "Giorgia Meloni","Manlio Messina", "Francesco Michelotti", "Massimo Milani", "Federico Mollicone", "Augusta Montaruli",
-                "Maddalena Morgante", "Francesco Mura", "Carlo Nordio", "Marco Osnato", "Marco Padovani", "Alessandro Palombi", "Andrea Pellicini",
-                "Marco Perissa", "Fabio Pietrella", "Barbara Polo", "Emanuele Prisco", "Paolo Pulciani", "Fabio Raimondo", "Fabio Rampelli", 
-                "Walter Rizzetto", "Eugenia Roccella", "Fabio Roscani", "Angelo Rossi", "Fabrizio Rossi", "Matteo Rosso", "Mauro Rotelli", 
-                "Gianfranco Rotondi", "Massimo Ruspandini", "Gaetana Russo", "Luca Sbardella", "Michele Schiano Di Visconti", "Marta Schifone",
-                "Rachele Silvestri", "Guerino Testa", "Paolo Trancassini", "Andrea Tremaglia", "Giulio Tremonti", "Alessandro Urzì",
-                "Carolina Varchi", "Imma Vetri", "Gianluca Vinci", "Andrea Volpi", "Riccardo Zucconi", "Immacolata Zurzolo"
+                "Aldo Mattia", "Gianmarco Mazzi", "Giorgia Meloni","Manlio Messina", "Francesco Michelotti", "Massimo Milani", "Federico Mollicone", 
+                "Augusta Montaruli","Maddalena Morgante", "Francesco Mura", "Carlo Nordio", "Marco Osnato", "Marco Padovani", "Alessandro Palombi", 
+                "Andrea Pellicini", "Marco Perissa", "Fabio Pietrella", "Barbara Polo", "Emanuele Prisco", "Paolo Pulciani", "Fabio Raimondo", 
+                "Fabio Rampelli", "Walter Rizzetto", "Eugenia Roccella", "Fabio Roscani", "Angelo Rossi", "Fabrizio Rossi", "Matteo Rosso", 
+                "Mauro Rotelli", "Gianfranco Rotondi", "Massimo Ruspandini", "Gaetana Russo", "Luca Sbardella", "Michele Schiano Di Visconti", 
+                "Marta Schifone", "Rachele Silvestri", "Guerino Testa", "Paolo Trancassini", "Andrea Tremaglia", "Giulio Tremonti", 
+                "Alessandro Urzì", "Carolina Varchi", "Imma Vetri", "Gianluca Vinci", "Andrea Volpi", "Riccardo Zucconi", "Immacolata Zurzolo"
             ],
             "senators":[
                 "Lucio Malan", "Paola Ambrogio", "Bartolomeo Amidei", "Renato Ancorotti", "Cinzia Pellegrino", "Alberto Balboni", 
@@ -85,6 +88,7 @@
         },
         {
             "name":"Forza Italia",
+            "group":"Forza Italia",
             "website":"https://forzaitalia.it/",
             "leaders":["Antonio Tajani"],
             "deputees":[
@@ -103,6 +107,7 @@
         },
         {
             "name":"MoVimento 5 stelle",
+            "group":"Movimento 5 stelle",
             "website":"https://www.movimento5stelle.eu/",
             "leaders":["Giuseppe Conte"],
             "deputees":[
@@ -121,70 +126,99 @@
         },
         {
             "name":"Italia Viva",
-            "website":"https://...",
+            "group":"Italia Viva",
+            "website":"https://www.italiaviva.it/",
             "leaders":["Matteo Renzi"],
-            "deputees":[""],
+            "deputees":[
+                "Francesco Bonifazi", "Maria Elena Boschi", "Mauro Del Barba", "Davide Faraone", "Maria Chiara Gadda", "Roberto Giachetti",
+                "Naike Gruppioni"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Matteo Renzi"],
+            "foundation_date":"18th of September, 2019"
         },
         {
             "name":"Azione",
-            "website":"https://...",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "website":"https://www.azione.it/",
             "leaders":["Carlo Calenda"],
-            "deputees":[""],
+            "deputees":[
+                "Fabrizio Benzoni", "Elena Bonetti", "Antonio D'Alessio", "Valentina Grippo", "Federica Onori", "Giulia Pastorella",
+                "Matteo Richetti", "Ettore Rosato", "Daniela Ruffino", "Giulio Cesare Sottanelli"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Carlo Calenda"],
+            "foundation_date":"21th of November, 2019"
         },
         {
-            "name":"Europa Verde",
-            "website":"https://...",
+            "name":"Europa Verde (Alleanza Verdi e Sinistra)",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "website":"https://europaverde.it/",
             "leaders":["Angelo Bonelli"],
-            "deputees":[""],
+            "deputees":[
+                "Angelo Bonelli", "Francesco Emilio Borrelli", "Devis Dori", "Nicola Frantoianni", "Francesca Ghirra", "Marco Grimaldi",
+                "Francesco Mari", "Elisabetta Piccolotti", "Luana Zanella", "Filiberto Zaratti"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Angelo Bonelli", "Fiorella Zabatta"],
+            "foundation_date":"10th of July, 2021"
         },
         {
-            "name":"Sinistra Italiana",
-            "website":"https://...",
+            "name":"Sinistra Italiana (Alleanza Verdi e Sinistra)",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "website":"https://www.sinistraitaliana.si/",
             "leaders":["Nicola Frantoianni"],
-            "deputees":[""],
+            "deputees":[
+                "Angelo Bonelli", "Francesco Emilio Borrelli", "Devis Dori", "Nicola Frantoianni", "Francesca Ghirra", "Marco Grimaldi",
+                "Francesco Mari", "Elisabetta Piccolotti", "Luana Zanella", "Filiberto Zaratti"
+            ],
             "senators":[""],
             "founders":[""],
-            "foundation_date":""
+            "foundation_date":"19th of Febraury, 2017"
         },
         {
             "name":"Noi Moderati",
-            "website":"https://...",
+            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
+            "website":"https://noimoderati.it/",
             "leaders":["Maurizio Lupi"],
-            "deputees":[""],
+            "deputees":[
+                "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
+                "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Maurizio Lupi", "Giovanni Toti", "Luigi Brugnaro", "Lorenzo Cesa"],
+            "foundation_date":"21th of May, 2023"
         },
         {
             "name":"Unione di Centro",
-            "website":"https://...",
+            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
+            "website":"https://www.udc-italia.it/",
             "leaders":["Lorenzo Cesa"],
-            "deputees":[""],
+            "deputees":[
+                "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
+                "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Centro Cristiano Democratico (party)","Cristiani Democratici Uniti (party)","Democrazia Europea (party)"],
+            "foundation_date":"6th of December, 2002"
         },
         {
-            "name":"Coraggio Italia",
-            "website":"https://...",
+            "name":"Coraggio Italia (Noi moderati/Lupi - Toti - Brugnaro - UdC)",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "website":"https://www.coraggioitalia.it/",
             "leaders":["Luigi Brugnaro"],
-            "deputees":[""],
+            "deputees":[
+                "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
+                "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Luigi Brugnaro", "Giovanni Toti"],
+            "foundation_date":"27 of May, 2021"
         },
         {
             "name":"+Europa",
-            "website":"https://...",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "website":"https://www.piueuropa.eu/",
             "leaders":["Emma Bonino"],
             "deputees":[""],
             "senators":[""],
@@ -193,6 +227,7 @@
         },
         {
             "name":"Democrazia Solidale",
+            "group":"Partito Democratico - Italia Democratica e Progressista",
             "website":"https://...",
             "leaders":["Paolo Ciani"],
             "deputees":[""],
