@@ -4,7 +4,8 @@
             "name":"Partito Democratico",
             "website":"https://...",
             "leaders":["Elly Schlein"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -12,15 +13,17 @@
             "name":"Lega",
             "website":"https://...",
             "leaders":["Matteo Salvini"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
         {
             "name":"Fratelli d'Italia",
-            "website":"https://...",
+            "website":"https://www.fratelli-italia.it/",
             "leaders":["Giorgia Meloni"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -28,7 +31,8 @@
             "name":"Forza Italia",
             "website":"https://...",
             "leaders":["Antonio Tajani"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -36,7 +40,8 @@
             "name":"MoVimento 5 stelle",
             "website":"https://...",
             "leaders":["Giuseppe Conte"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -44,7 +49,8 @@
             "name":"Italia Viva",
             "website":"https://...",
             "leaders":["Matteo Renzi"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -52,7 +58,8 @@
             "name":"Azione",
             "website":"https://...",
             "leaders":["Carlo Calenda"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -60,7 +67,8 @@
             "name":"Europa Verde",
             "website":"https://...",
             "leaders":["Angelo Bonelli"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -68,7 +76,8 @@
             "name":"Sinistra Italiana",
             "website":"https://...",
             "leaders":["Nicola Frantoianni"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -76,7 +85,8 @@
             "name":"Noi Moderati",
             "website":"https://...",
             "leaders":["Maurizio Lupi"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -84,7 +94,8 @@
             "name":"Unione di Centro",
             "website":"https://...",
             "leaders":["Lorenzo Cesa"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -92,7 +103,8 @@
             "name":"Coraggio Italia",
             "website":"https://...",
             "leaders":["Luigi Brugnaro"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -100,7 +112,8 @@
             "name":"+Europa",
             "website":"https://...",
             "leaders":["Emma Bonino"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -108,7 +121,8 @@
             "name":"Democrazia Solidale",
             "website":"https://...",
             "leaders":["Paolo Ciani"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -116,7 +130,8 @@
             "name":"Nuovo PSI",
             "website":"https://...",
             "leaders":["Stefano Caldoro"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -124,7 +139,8 @@
             "name":"Centro Democratico",
             "website":"https://...",
             "leaders":["Bruno Tabacci"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -132,7 +148,8 @@
             "name":"Centristi per l'Europa",
             "website":"https://...",
             "leaders":["Pier Ferdinando Casini"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         }

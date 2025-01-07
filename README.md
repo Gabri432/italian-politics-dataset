@@ -25,7 +25,8 @@ For a party:
             "name":"Partito Democratico",
             "website":"https://...",
             "leaders":["Elly Schlein"],
-            "famous_members":[""],
+            "deputees":[""],
+            "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
