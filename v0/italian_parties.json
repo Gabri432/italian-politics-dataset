@@ -87,12 +87,12 @@
                 "Lucio Malan", "Paola Ambrogio", "Bartolomeo Amidei", "Renato Ancorotti", "Cinzia Pellegrino", "Alberto Balboni", 
                 "Michele Barcaiuolo", "Giovanni Berrino", "Carmela Bucalo", "Alessio Butti", "Nicola Calderini", "Guido Castelli",
                 "Susanna Donatella Campione", "Luca Ciriani", "Giulia Cosenza", "Luca De Carlo", "Andrea De Priamo", "Costanzo Della Porta",
-                "Anna Maria Fallucchi", "Marta Farolfi", "Giovanbattista Fazzolari", "Matteo Gelmetti", "Antonio Guidi", "Antonio Iannone",
+                "Anna Maria Fallucchi", "Marta Farolfi", "Giovanbattista Fazzolari", "Matteo Gelmetti", "Antonio Iannone",
                 "Patrizio Giacomo La Pietra", "Ignazio La Russa", "Elena Leonardi", "Guido Quintinio Liris", "Marco Lisei", "Gianpiero Maffoni",
                 "Paola Mancini", "Paolo Mareschi", "Domenico Matera", "Filippo Melchiorre", "Roberto Menia", "Lavinia Mennuni", "Ester Mieli",
-                "Nello Musumeci", "Gaetano Nastri", "Vita Maria Nocco", "Fausto Orsomarso", "Marcello Pera", "Giovanna Petrenga", "Simona Petrucci",
-                "Salvo Pogliese", "Ernesto Rapani", "Sergio Rastrelli", "Isabella Rauti", "Gianni Rosa", "Raoul Russo", "Salvatore Sallemi",
-                "Giorgio Salvitti", "Daniela Garnero Santanchè", "Giovanni Satta", "Marco Scurria", "Etel Sigismondi", "Marco Silvestroni",
+                "Nello Musumeci", "Gaetano Nastri", "Vita Maria Nocco", "Fausto Orsomarso", "Marcello Pera", "Simona Petrucci",
+                "Salvo Pogliese", "Ernesto Rapani", "Sergio Rastrelli", "Isabella Rauti", "Gianni Rosa", "Raoul Russo", "Salvatore Sallemi", 
+                "Daniela Garnero Santanchè", "Giovanni Satta", "Marco Scurria", "Etel Sigismondi", "Marco Silvestroni",
                 "Sandro Sisler", "Raffaele Speranzon", "Domenica Spinelli", "Giulio Terzi di Sant'Agata", "Francesca Tubetti", "Adolfo Russo",
                 "Franco Zaffini", "Antonella Zedda", "Ignazio Zullo"  
             ],
@@ -156,7 +156,9 @@
                 "Francesco Bonifazi", "Maria Elena Boschi", "Mauro Del Barba", "Davide Faraone", "Maria Chiara Gadda", "Roberto Giachetti",
                 "Naike Gruppioni"
             ],
-            "senators":[""],
+            "senators":[
+                "Enrico Borghi", "Silvia Fregolent", "Ivan Scalfarotto", "Dafne Musolino", "Raffaella Paita", "Matteo Renzi", "Daniela Sbrollini"
+            ],
             "founders":["Matteo Renzi"],
             "foundation_date":"18th of September, 2019"
         },
@@ -169,7 +171,7 @@
                 "Fabrizio Benzoni", "Elena Bonetti", "Antonio D'Alessio", "Valentina Grippo", "Federica Onori", "Giulia Pastorella",
                 "Matteo Richetti", "Ettore Rosato", "Daniela Ruffino", "Giulio Cesare Sottanelli"
             ],
-            "senators":[""],
+            "senators":["Carlo Calenda", "Marco Lombardo"],
             "founders":["Carlo Calenda"],
             "foundation_date":"21th of November, 2019"
         },
@@ -195,48 +197,25 @@
                 "Angelo Bonelli", "Francesco Emilio Borrelli", "Devis Dori", "Nicola Frantoianni", "Francesca Ghirra", "Marco Grimaldi",
                 "Francesco Mari", "Elisabetta Piccolotti", "Luana Zanella", "Filiberto Zaratti"
             ],
-            "senators":[""],
+            "senators":["Peppe De Cristofaro", "Aurora Floridia", "Tino Magni", "Ilaria Cucchi"],
             "founders":[""],
             "foundation_date":"19th of Febraury, 2017"
         },
         {
             "name":"Noi Moderati",
-            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
+            "group":"Gruppo Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
             "website":"https://noimoderati.it/",
             "leaders":["Maurizio Lupi"],
             "deputees":[
                 "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
                 "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
             ],
-            "senators":[""],
+            "senators":[
+                "Michaela Biancofiore", "Antonio de Poli", "Giorgio Salvitti", "Giovanna Petrenga", "Mario Alejandro Borghese", "Mariastella Gelmini",
+                "Antonio Guidi", "Giusy Versace"
+            ],
             "founders":["Maurizio Lupi", "Giovanni Toti", "Luigi Brugnaro", "Lorenzo Cesa"],
             "foundation_date":"21th of May, 2023"
-        },
-        {
-            "name":"Unione di Centro",
-            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
-            "website":"https://www.udc-italia.it/",
-            "leaders":["Antonio De Poli"],
-            "deputees":[
-                "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
-                "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
-            ],
-            "senators":[""],
-            "founders":["Centro Cristiano Democratico (party)","Cristiani Democratici Uniti (party)","Democrazia Europea (party)"],
-            "foundation_date":"6th of December, 2002"
-        },
-        {
-            "name":"Coraggio Italia",
-            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
-            "website":"https://www.coraggioitalia.it/",
-            "leaders":["Luigi Brugnaro"],
-            "deputees":[
-                "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
-                "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
-            ],
-            "senators":[""],
-            "founders":["Luigi Brugnaro", "Giovanni Toti"],
-            "foundation_date":"27 of May, 2021"
         },
         {
             "name":"+Europa",
@@ -256,7 +235,7 @@
             "deputees":[
                 "Lorenzo Cesa", "Andrea De Bertoldi", "Francesco Gallo", "Luigi Marattin", "Antonino Minardo", "Aboubakar Soumahoro"
             ],
-            "senators":[""],
+            "senators":["Mario Monti (for life)", "Renzo Piano (for life)", "Liliana Segre (for life)"],
             "founders":[""],
             "foundation_date":""
         },
@@ -267,6 +246,18 @@
             "leaders":[""],
             "deputees":["Renate Gebhard", "Franco Manes", "Manfred Schullian", "Dieter Steger"],
             "senators":[""],
+            "founders":[""],
+            "foundation_date":""
+        },
+        {
+            "name":"others",
+            "group":"Gruppo Per le Autonomie (SVP-PATT, Campobase) (Group for the Autonomies)",
+            "website":"",
+            "leaders":[""],
+            "deputees":[""],
+            "senators":[
+                "Julia Unterberger", "Luigi Spagnolli", "Pietro Patton", "Elena Cattaneo (for life)", "Meinhard Durnwalder", "Carlo Rubbia (for life)"
+            ],
             "founders":[""],
             "foundation_date":""
         }
