@@ -126,94 +126,99 @@
             "roles":["Minister of Health"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Marco Marsilio",
+            "party":"Fratelli d'Italia",
+            "roles":["President of Abruzzo Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Vito Bardi",
+            "party":"Forza Italia",
+            "roles":["Predisent of Basilicata Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Roberto Occhiuto",
+            "party":"Forza Italia",
+            "roles":["President of Calabria Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Vincenzo De Luca",
+            "party":"Partito Democratico",
+            "roles":["President of Campania Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Michele De Pascale",
+            "party":"Partito Democratico",
+            "roles":["President of Emilia-Romagna Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Massimiliano Fedriga",
+            "party":"Lega",
+            "roles":["President of Friuli Venezia Giulia Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Francesco Rocca",
+            "party":"indipendent",
+            "roles":["President of Lazio Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Marco Bucci",
+            "party":"indipendent",
+            "roles":["President of Liguria Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Attilio Fontana",
+            "party":"Lega",
+            "roles":["President of Lombardia Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Francesco Roberti",
+            "party":"Forza Italia",
+            "roles":["President of Molise Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Alberto Cirio",
+            "party":"Forza Italia",
+            "roles":["President of Piemonte Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Michele Emiliano",
+            "party":"Partito Democratico",
+            "roles":["President of Puglia Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Alessandra Todde",
+            "party":"Movimento 5 stelle",
+            "roles":["President of Sardinia"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Renato Schifani",
+            "party":"Forza Italia",
+            "roles":["President of Sicilia Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Eugenio Giani",
+            "party":"Partito Democratico",
+            "roles":["President of Toscana Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Arno Kompatscher",
+            "party":"Partito Popolare Sudtirolese",
+            "roles":["President of Trentino Alto Adige Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Stefania Proietti",
+            "party":"indipendent",
+            "roles":["President of Umbria Region"]
         },
         {
-            "name":"",
-            "party":"",
-            "roles":[""]
+            "name":"Renzo Testolin",
+            "party":"Unione Valdostana",
+            "roles":["President of Valle d'Aosta Region"]
+        },
+        {
+            "name":"Luca Zaia",
+            "party":"Lega",
+            "roles":["President of Veneto Region"]
         },
         {
             "name":"Elly Schlein",
