@@ -26,9 +26,21 @@
             "name":"Lega",
             "website":"https://...",
             "leaders":["Matteo Salvini"],
-            "deputees":[""],
+            "deputees":[
+                "Giorgia Andreuzza", "Antonio Angelucci", "Alberto Bagnai", "Andrea Barabotti", "Davide Bellomo", "Alessandro Manuel Benvenuto",
+                "Davide Bergamini", "Simone Billi", "Ingrid Bisa", "Massimo Bitonci", "Gianangelo Bof", "Simona Bordonali", "Umberto Bossi",
+                "Francesco Bruzzone", "Stefano Candiani", "Virginio Caparvi", "Mirco Carloni", "Anastasio Carrà", "Vanessa Cattoi",
+                "Laura Cavandoli", "Fabrizio Cecchetti", "Giulio Cementero", "Dimitri Coin", "Silvana Andreina Comaroli", "Andrea Crippa",
+                "Andrea Dara", "Salvatore Marcello Di Mattina", "Lorenzo Fontana", "Paolo Formentini", "Rebecca Frassini",
+                "Federico Freni", "Domenico Furgiuele", "Vannia Gava", "Andrea Giaccone", "Dario Giagoni", "Alessandro Giglio Vigna",
+                "Giancarlo Giorgetti", "Alberto Luigi Gusmeroli", "Igor Iezzi", "Giorgia Latini", "Arianna Lazzarini", "Simona Loizzo",
+                "Elena Maccanti", "Riccardo Augusto Marchetti", "Simonetta Matone", "Giovanna Miele", "Riccardo Molinari", "Nicola Molteni",
+                "Elisa Montemagni", "Jacopo Morrone", "Tiziana Nisini", "Nicola Ottaviani", "Massimiliano Panizzut", "Attilio Piero",
+                "Graziano Pizzimenti", "Erik Umberto Pretto", "Laura Ravetto", "Edoardo Rixi", "Rossano Sasso", "Alberto Stefani",
+                "Valeria Sudano", "Luca Toccalini", "Edoardo Ziello", "Gianpiero Zinzi", "Eugenio Zoffili"
+            ],
             "senators":[""],
-            "founders":[""],
+            "founders":["Umberto Bossi"],
             "foundation_date":""
         },
         {
