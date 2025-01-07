@@ -1,5 +1,25 @@
 # Italian Politics Dataset
-List of some of the most important Italian parties and political figures.
+List of some of the most important Italian (currenlty active) parties and political figures.
+
+The list primarly includes:
+
+- ministers;
+- deputees;
+- senators;
+- regional presidents.
+
+The parties included are:
+
+- Fratelli d'Italia;
+- Lega;
+- Forza Italia;
+- Noi Moderati (alliance);
+- Azione;
+- Italia Viva;
+- +Europa;
+- Partito Democratico;
+- Alleanza Verdi e Sinistra;
+- others, deputees or senators classified in group Misto (Mixed), including Minoranze Linguistiche (Linguistic Minorities), and Gruppo Per le Autonomie (SVP-PATT, Campobase) (Group for the Autonomies).
 
 ## Project layout
 ```
