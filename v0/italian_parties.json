@@ -48,7 +48,13 @@
                 "Graziano Pizzimenti", "Erik Umberto Pretto", "Laura Ravetto", "Edoardo Rixi", "Rossano Sasso", "Alberto Stefani",
                 "Valeria Sudano", "Luca Toccalini", "Edoardo Ziello", "Gianpiero Zinzi", "Eugenio Zoffili"
             ],
-            "senators":[""],
+            "senators":[
+                "Massimiliano Romeo", "Mara Bizzotto", "Antonino Germanà", "Stefano Borghesi", "Giorgio Maria Bergesio", "Giulia Bongiorno",
+                "Claudio Borghi", "Lucia Borgonzoni", "Roberto Calderoli", "Gianluca Cantalamessa", "Maria Cristina Cantù", 
+                "Gian Marco Centinaio", "Marco Dreosto", "Claudio Duringon", "Massimo Garavaglia", "Roberto Marti", "Tilde Minasi",
+                "Alessandro Morelli", "Elena Murelli", "Andrea Ostellari", "Andrea Paganella", "Daisy Pirovano", "Manfredi Potenti",
+                "Stefania Pucciarelli", "Matteo Salvini", "Nicoletta Spelgatti", "Erika Stefani", "Elena Testor", "Paolo Tosato"
+            ],
             "founders":["Umberto Bossi"],
             "foundation_date":""
         },
@@ -108,7 +114,12 @@
                 "Pietro Pittalis", "Caita Polidori", "Cristina Rossello", "Francesco Maria Rubano", "Paolo Emilio Russo", "Jotti Gloria Saccani",
                 "Fabrizio Sala", "Matilde Siracusano", "Alessandro Sorte", "Luca Squeri", "Antonio Tajani", "Rosaria Tassinari", "Charia Tenerini"
             ],
-            "senators":[""],
+            "senators":[
+                "Maurizio Gasparri", "Adriano Paroli", "Roberto Rosso", "Alberto Baracchini", "Maria Elisabetta Alberti Casellati",
+                "Anna Maria Bernini", "Stefania Gabriella Anastasia Craxi", "Dario Damiani", "Raffaele De Rosa", "Claudio Fazzone",
+                "Adriano Galliani", "Claudio Lotito", "Mario Occhiuto", "Licia Ronzulli", "Francesco Silvestro", "Francesco Paolo Sisto",
+                "Daniela Ternullo", "Antonio Salvatore Trevisi", "Pierantonio Zanettin", "Paolo Zangrillo"
+            ],
             "founders":["Silvio Berlusconi"],
             "foundation_date":"1994"
         },
