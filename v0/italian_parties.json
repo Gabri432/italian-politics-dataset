@@ -42,9 +42,21 @@
                 "Rachele Silvestri", "Guerino Testa", "Paolo Trancassini", "Andrea Tremaglia", "Giulio Tremonti", "Alessandro Urzì",
                 "Carolina Varchi", "Imma Vetri", "Gianluca Vinci", "Andrea Volpi", "Riccardo Zucconi", "Concetta Zurzolo"
             ],
-            "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "senators":[
+                "Lucio Malan", "Paola Ambrogio", "Bartolomeo Amidei", "Renato Ancorotti", "Cinzia Pellegrino", "Alberto Balboni", 
+                "Michele Barcaiuolo", "Giovanni Berrino", "Carmela Bucalo", "Alessio Butti", "Nicola Calderini", "Guido Castelli",
+                "Susanna Donatella Campione", "Luca Ciriani", "Giulia Cosenza", "Luca De Carlo", "Andrea De Priamo", "Costanzo Della Porta",
+                "Anna Maria Fallucchi", "Marta Farolfi", "Giovanbattista Fazzolari", "Matteo Gelmetti", "Antonio Guidi", "Antonio Iannone",
+                "Patrizio Giacomo La Pietra", "Ignazio La Russa", "Elena Leonardi", "Guido Quintinio Liris", "Marco Lisei", "Gianpiero Maffoni",
+                "Paola Mancini", "Paolo Mareschi", "Domenico Matera", "Filippo Melchiorre", "Roberto Menia", "Lavinia Mennuni", "Ester Mieli",
+                "Nello Musumeci", "Gaetano Nastri", "Vita Maria Nocco", "Fausto Orsomarso", "Marcello Pera", "Giovanna Petrenga", "Simona Petrucci",
+                "Salvo Pogliese", "Ernesto Rapani", "Sergio Rastrelli", "Isabella Rauti", "Gianni Rosa", "Raoul Russo", "Salvatore Sallemi",
+                "Giorgio Salvitti", "Daniela Garnero Santanchè", "Giovanni Satta", "Marco Scurria", "Etel Sigismondi", "Marco Silvestroni",
+                "Sandro Sisler", "Raffaele Speranzon", "Domenica Spinelli", "Giulio Terzi di Sant'Agata", "Francesca Tubetti", "Adolfo Russo",
+                "Franco Zaffini", "Antonella Zedda", "Ignazio Zullo"  
+            ],
+            "founders":["Giorgia Meloni", "Guido Crosetto", "Ignazio La Russa"],
+            "foundation_date":"December 2012"
         },
         {
             "name":"Forza Italia",
