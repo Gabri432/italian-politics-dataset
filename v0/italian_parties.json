@@ -55,7 +55,7 @@
                 "Antonio Baldelli", "Maria Teresa Bellucci", "Stefano Benvenuti Gostoli", "Galeazzo Bignami", "Alice Buonguerrieri", "Salvatore Caiata",
                 "Giangiacomo Calovini", "Gerolamo Cangiano", "Luca Cannata", "Gianluca Caramanna", "Maria Cristina Caretta", "Marco Ceretto", 
                 "Paola Maria Chiesa", "Monica Ciaburro", "Francesco Ciancitto", "Luciano Ciocchetti", "Edmondo Cirielli", "Beatriz Colombo",
-                "Chiara Colosimo", "Fabrizio Comba", "Saverio Congedo", "Marcello Coppo", "Andrea De Bertoldi", "Riccardo De Corato", "Salvatore Deidda",
+                "Chiara Colosimo", "Fabrizio Comba", "Saverio Congedo", "Marcello Coppo", "Riccardo De Corato", "Salvatore Deidda",
                 "Andrea Delmastro Delle Vedove", "Andrea Di Giuseppe", "Grazia Di Maggio", "Daniela Dondi", "Giovanni Donzelli", "Wanda Ferro",
                 "Francesco Filini", "Raffaele Fitto", "Paola Frassinetti", "Maria Grazia Frijia", "Elisabetta Gardini", "Marcello Gemmato",
                 "Antonio Giordano", "Letizia Giorgianni", "Silvio Giovine", "Dario Iaia", "Sara Kelany", "Gianni Lampis", "Christiana Lancellotta",
@@ -88,7 +88,7 @@
         },
         {
             "name":"Forza Italia",
-            "group":"Forza Italia",
+            "group":"Forza Italia - PPE",
             "website":"https://forzaitalia.it/",
             "leaders":["Antonio Tajani"],
             "deputees":[
@@ -126,7 +126,7 @@
         },
         {
             "name":"Italia Viva",
-            "group":"Italia Viva",
+            "group":"Italia Viva - Il centro - Renew Europe",
             "website":"https://www.italiaviva.it/",
             "leaders":["Matteo Renzi"],
             "deputees":[
@@ -139,7 +139,7 @@
         },
         {
             "name":"Azione",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "group":"Azione - Popolari Europeisti Riformatori - Renew Europe",
             "website":"https://www.azione.it/",
             "leaders":["Carlo Calenda"],
             "deputees":[
@@ -151,8 +151,8 @@
             "foundation_date":"21th of November, 2019"
         },
         {
-            "name":"Europa Verde (Alleanza Verdi e Sinistra)",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "name":"Europa Verde",
+            "group":"Alleanza Verdi e Sinistra",
             "website":"https://europaverde.it/",
             "leaders":["Angelo Bonelli"],
             "deputees":[
@@ -164,8 +164,8 @@
             "foundation_date":"10th of July, 2021"
         },
         {
-            "name":"Sinistra Italiana (Alleanza Verdi e Sinistra)",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "name":"Sinistra Italiana",
+            "group":"Alleanza Verdi e Sinistra",
             "website":"https://www.sinistraitaliana.si/",
             "leaders":["Nicola Frantoianni"],
             "deputees":[
@@ -193,7 +193,7 @@
             "name":"Unione di Centro",
             "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
             "website":"https://www.udc-italia.it/",
-            "leaders":["Lorenzo Cesa"],
+            "leaders":["Antonio De Poli"],
             "deputees":[
                 "Pino Bicchielli", "Michela Brambilla Vittoria", "Maria Rosaria Carfagna", "Ilaria Cavo", "Alessandro Colucci", "Maurizio Lupi",
                 "Calogero Pisano", "Francesco Saverio Romano", "Martina Semenzato"
@@ -203,8 +203,8 @@
             "foundation_date":"6th of December, 2002"
         },
         {
-            "name":"Coraggio Italia (Noi moderati/Lupi - Toti - Brugnaro - UdC)",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "name":"Coraggio Italia",
+            "group":"Noi moderati/Lupi - Toti - Brugnaro - UdC",
             "website":"https://www.coraggioitalia.it/",
             "leaders":["Luigi Brugnaro"],
             "deputees":[
@@ -217,51 +217,35 @@
         },
         {
             "name":"+Europa",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
+            "group":"Misto - +Europa",
             "website":"https://www.piueuropa.eu/",
             "leaders":["Emma Bonino"],
-            "deputees":[""],
+            "deputees":["Benedetto Della Vedova", "Riccardo Magi", "Luca Pastorino"],
+            "senators":[""],
+            "founders":[""],
+            "foundation_date":"27 of January, 2019"
+        },
+        {
+            "name":"others",
+            "group":"Misto",
+            "website":"",
+            "leaders":[""],
+            "deputees":[
+                "Lorenzo Cesa", "Andrea De Bertoldi", "Francesco Gallo", "Luigi Marattin", "Antonino Minardo", "Aboubakar Soumahoro"
+            ],
             "senators":[""],
             "founders":[""],
             "foundation_date":""
         },
         {
-            "name":"Democrazia Solidale",
-            "group":"Partito Democratico - Italia Democratica e Progressista",
-            "website":"https://...",
-            "leaders":["Paolo Ciani"],
-            "deputees":[""],
-            "senators":[""],
-            "founders":[""],
-            "foundation_date":""
-        },
-        {
-            "name":"Nuovo PSI",
-            "website":"https://...",
-            "leaders":["Stefano Caldoro"],
-            "deputees":[""],
-            "senators":[""],
-            "founders":[""],
-            "foundation_date":""
-        },
-        {
-            "name":"Centro Democratico",
-            "website":"https://...",
-            "leaders":["Bruno Tabacci"],
-            "deputees":[""],
-            "senators":[""],
-            "founders":[""],
-            "foundation_date":""
-        },
-        {
-            "name":"Centristi per l'Europa",
-            "website":"https://...",
-            "leaders":["Pier Ferdinando Casini"],
-            "deputees":[""],
+            "name":"others",
+            "group":"Misto - Minoranze Linguistiche (Linguistic Minorities)",
+            "website":"",
+            "leaders":[""],
+            "deputees":["Renate Gebhard", "Franco Manes", "Manfred Schullian", "Dieter Steger"],
             "senators":[""],
             "founders":[""],
             "foundation_date":""
         }
-
     ]
 }
