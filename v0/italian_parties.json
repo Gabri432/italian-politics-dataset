@@ -4,10 +4,23 @@
             "name":"Partito Democratico",
             "website":"https://...",
             "leaders":["Elly Schlein"],
-            "deputees":[""],
+            "deputees":[
+                "Vincenzo Amendola", "Anna Ascani", "Ouidad Bakkali", "Anthony Emanuele Barbagallo", "Mauro Berruto", "Laura Boldrini",
+                "Simona Bonafé", "Chiara Braga", "Nicola Caré", "Giuseppe Castiglione", "Andrea Casu", "Paolo Ciani", "Gianni Cuperlo",
+                "Augusto Curti", "Luciano D'Alfonso", "Piero De Luca", "Andrea De Maria", "Paola De Micheli", "Michela Di Biase",
+                "Christian Diego Di Sanzo", "Eleonora Evi", "Piero Fassino", "Sara Ferrari", "Rossana Filippin", "Antonella Forattini",
+                "Federico Fornaro", "Emiliano Fossi", "Marco Furfaro", "Valentina Ghio", "Federico Giannassi", "Gian Antonio Girelli",
+                "Andrea Gnassi", "Stefano Graziano", "Chiara Gribuado", "Lorenzo Guerini", "Maria Cecilia Guerra", "Giovanna Iacono",
+                "Marco Lacarra", "Silvio Lai", "Mauro Antonio Donato Laus", "Maria Anna Madia", "Ilenia Malavasi", "Claudio Mancini",
+                "Irene Manzi", "Maria Stefania Marino", "Matteo Mauri", "Virginio Merola", "Roberto Morassut", "Matteo Orfini",
+                "Andrea Orlando", "Ubaldo Pagano", "Vinicio Giuseppe Guido Peluffo", "Fabio Porta", "Patrizia Prestipino",
+                "Giuseppe Provenzano", "Lia Quartapelle Procopio", "Toni Ricciardi", "Silvia Roggiani", "Nadia Romeo", "Andrea Rossi",
+                "Marco Sarracino", "Rachele Scarpa", "Elly Schlein", "Arturo Scotto", "Debora Serrachiani", "Marco Simiani",
+                "Roberto Speranza", "Claudio Michele Stefanazzi", "Nicola Stumpo", "Bruno Tabacci", "Stefano Vaccari"
+            ],
             "senators":[""],
-            "founders":[""],
-            "foundation_date":""
+            "founders":["Romano Prodi", "Pierluigi Bersani", "Dario Franceschini", "Paolo Gentiloni"],
+            "foundation_date":"14th of October, 2007"
         },
         {
             "name":"Lega",
