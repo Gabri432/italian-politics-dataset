@@ -30,7 +30,7 @@ root
 -- v0 (struttura dati non stabile)
 ---- v0/italian_parties.json
 ---- v0/italian_politicians.json
----- v0/scripts/ (cartella contenente degli per la versione 0)
+---- v0/scripts/ (cartella contenente degli script per la versione 0)
 ------ scripts/print_parties.py (stampa i partiti)
 ------ scripts/print_politicians.py (stampa i politici)
 
@@ -38,7 +38,7 @@ root
 -- v1 (futura struttura dati stabile)
 ---- v1/italian_parties.json
 ---- v1/italian_politicians.json
----- v1/scripts/ (cartella contenente degli per la versione 1, ciascuna cartella avrà i propri script)
+---- v1/scripts/ (cartella contenente degli script per la versione 1, ciascuna cartella avrà i propri script)
 ------ scripts/print_parties.py
 ------ scripts/print_politicians.py
 ```
