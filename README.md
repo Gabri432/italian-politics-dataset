@@ -6,7 +6,8 @@ The list primarly includes:
 - ministers;
 - deputies;
 - senators;
-- regional presidents.
+- regional presidents;
+- euro-parliamentarians.
 
 The parties included are:
 
@@ -55,6 +56,7 @@ For a party:
             "leaders":["Elly Schlein"],
             "deputies":["..."],
             "senators":["..."],
+            "eu_parliamentarians":[""],
             "founders":["..."],
             "foundation_date":"14th of October, 2007"
         },
@@ -105,5 +107,6 @@ python v0/scripts/print_politicians.py
     - [Italian Senate website](https://www.senato.it/home);
     - [Italian Chamber website](https://www.camera.it/);
     - [Italian Parliament Website](https://www.parlamento.it/)
+    - [European Parliament Website](https://www.europarl.europa.eu/meps/it/search/advanced?countryCode=IT)
 
 4. You can contribute by reporting bugs, issues or potential improvements [here](https://github.com/Gabri432/italian-politics-dataset/issues/new).

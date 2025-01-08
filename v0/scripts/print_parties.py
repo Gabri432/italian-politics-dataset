@@ -2,7 +2,9 @@ import json
 
 class Party:
     def __init__(
-            self, name: str, group: str, website: str, leaders: list[str], deputies: list[str], senators: list[str], founders: list[str], 
+            self, name: str, group: str, website: str, leaders: list[str], deputies: list[str], senators: list[str], 
+            eu_parliamentarians: list[str],
+            founders: list[str], 
             foundation_date: str
             ):
         self.name = name
@@ -11,13 +13,15 @@ class Party:
         self.leaders = leaders
         self.deputies = deputies
         self.senators = senators
+        self.eu_parliamentarians = eu_parliamentarians
         self.founders = founders 
         self.foundation_date = foundation_date
 
     def __str__(self):
         return (
             f"Name: {self.name}\nGroup: {self.group}\nWebsite: {self.website}\n"
-            f"Leaders: {self.leaders}\ndeputies: {self.deputies}\nSenators: {self.senators}\n\n"
+            f"Leaders: {self.leaders}\ndeputies: {self.deputies}\nSenators: {self.senators}\n"
+            f"European Parliamentarians: {self.eu_parliamentarians}\n\n"
             )
     
 def get_data() -> list[Party]:

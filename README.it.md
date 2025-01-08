@@ -6,7 +6,8 @@ Questa lista include principalmente:
 - ministri;
 - deputati;
 - senatori;
-- presidenti di regione.
+- presidenti di regione;
+- europarlamentari.
 
 I partiti inclusi sono:
 
@@ -55,6 +56,7 @@ Per un partito:
             "leaders":["Elly Schlein"],
             "deputies":["..."],
             "senators":["..."],
+            "eu_parliamentarians":[""],
             "founders":["..."],
             "foundation_date":"14th of October, 2007"
         },
@@ -105,5 +107,6 @@ python v0/scripts/print_politicians.py
     - [Sito web del Senato](https://www.senato.it/home);
     - [Sito web della Camera](https://www.camera.it/);
     - [Sito web del Parlamento](https://www.parlamento.it/)
+    - [Sito web dell'Europarlamento](https://www.europarl.europa.eu/meps/it/search/advanced?countryCode=IT)
 
 4. Puoi contribuire riportando evenutali bug, problemi o suggerendo miglioramenti [qui](https://github.com/Gabri432/italian-politics-dataset/issues/new).
