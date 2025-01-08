@@ -27,7 +27,12 @@
                 "Andrea Martella", "Marco Meloni", "Antonio Misani", "Dario Parrini", "Vincenza Rando", "Tatjana Rojc", "Anna Rossomando",
                 "Filippo Sensi", "Cristina Tajani", "Valeria Valente", "Francesco Verducci", "Walter Verini"
             ],
-            "eu_parliamentarians":[""],
+            "eu_parliamentarians":[
+                "Lucia Annunziata", "Brando Benifei", "Stefano Bonaccini", "Annalisa Corrado", "Antonio Decaro", "Giorgio Gori",
+                "Elisabetta Gualmini", "Camilla Laureti", "Giuseppe Lupo", "Pierfrancesco Maran", "Alessandra Moretti", "Dario Nardella",
+                "Pina Picierno", "Matteo Ricci", "Sandro Ruotolo", "Cecilia Strada", "Marco Tarquinio", "Irene Tinagli", "Raffaele Topo", 
+                "Alessandro Zan", "Nicola Zingaretti"
+            ],
             "founders":["Romano Prodi", "Pierluigi Bersani", "Dario Franceschini", "Paolo Gentiloni"],
             "foundation_date":"14th of October, 2007"
         },
@@ -56,7 +61,10 @@
                 "Alessandro Morelli", "Elena Murelli", "Andrea Ostellari", "Andrea Paganella", "Daisy Pirovano", "Manfredi Potenti",
                 "Stefania Pucciarelli", "Matteo Salvini", "Nicoletta Spelgatti", "Erika Stefani", "Elena Testor", "Paolo Tosato"
             ],
-            "eu_parliamentarians":[""],
+            "eu_parliamentarians":[
+                "Paolo Borghia", "Susanna Ceccardi", "Anna Maria Cisint", "Aldo Patriciello", "Silvia Sardone", "Raffaele Stancanelli",
+                "Isabella Tovaglieri", "Roberto Vannacci"
+            ],
             "founders":["Umberto Bossi"],
             "foundation_date":""
         },
@@ -98,6 +106,12 @@
                 "Sandro Sisler", "Raffaele Speranzon", "Domenica Spinelli", "Giulio Terzi di Sant'Agata", "Francesca Tubetti", "Adolfo Urso",
                 "Franco Zaffini", "Antonella Zedda", "Ignazio Zullo"  
             ],
+            "eu_parliamentarians":[
+                "Sergio Berlato", "Stefano Cadevagna", "Carlo Ciccioli", "Alessandro Ciriani", "Giovanni Crosetto", "Elena Donazzan",
+                "Carlo Fidanza", "Pietro Fiocchi", "Alberico Gambino", "Chiara Gemma", "Paolo Inselvini", "Lara Magoni", "Mario Mantovani",
+                "Giuseppe Milazzo", "Denis Nesci", "Michele Picaro", "Daniele Polato", "Nicola Procaccini", "Ruggero Razza", "Antonella Sberna",
+                "Marco Squarta", "Francesco Torselli", "Francesco Ventola", "Mariateresa Vivaldini"
+            ],
             "founders":["Giorgia Meloni", "Guido Crosetto", "Ignazio La Russa"],
             "foundation_date":"December 2012"
         },
@@ -121,6 +135,10 @@
                 "Anna Maria Bernini", "Stefania Gabriella Anastasia Craxi", "Dario Damiani", "Raffaele De Rosa", "Claudio Fazzone",
                 "Adriano Galliani", "Claudio Lotito", "Mario Occhiuto", "Licia Ronzulli", "Francesco Silvestro", "Francesco Paolo Sisto",
                 "Daniela Ternullo", "Antonio Salvatore Trevisi", "Pierantonio Zanettin", "Paolo Zangrillo"
+            ],
+            "eu_parliamentarians":[
+                "Caterina Chinnici", "Salvatore De Meo", "Marco Falcone", "Fulvio Martusciello", "Letizia Moratti", "Giusi Princi",
+                "Massimo Salini", "Flavio Tosi"
             ],
             "founders":["Silvio Berlusconi"],
             "foundation_date":"1994"
@@ -146,6 +164,10 @@
                 "Barbara Guidolin", "Ettore Antonio Licheri", "Sabrina Licheri", "Ada Lopreiato", "Pietro Lorefice", "Bruno Marton",
                 "Orfeo Mazzella", "Gisella Naturale", "Luca Pirondini", "Roberto Maria Ferdinando Scarpinato", "Elena Sironi", "Mario Turco"
             ],
+            "eu_parliamentarians":[
+                "Giuseppe Antoci", "Danino Della Valle", "Mario Furore", "Carolina Morace", "Valentina Palmisano", "Gaetano Pedullà",
+                "Dario Tamburrano", "Pasquale Tridico"
+            ],
             "founders":["Beppe Grillo", "Gianmarco Casaleggio"],
             "foundation_date":"4th of October, 2009"
         },
@@ -161,6 +183,7 @@
             "senators":[
                 "Enrico Borghi", "Silvia Fregolent", "Ivan Scalfarotto", "Dafne Musolino", "Raffaella Paita", "Matteo Renzi", "Daniela Sbrollini"
             ],
+            "eu_parliamentarians":[""],
             "founders":["Matteo Renzi"],
             "foundation_date":"18th of September, 2019"
         },
@@ -174,19 +197,23 @@
                 "Matteo Richetti", "Ettore Rosato", "Daniela Ruffino", "Giulio Cesare Sottanelli"
             ],
             "senators":["Carlo Calenda", "Marco Lombardo"],
+            "eu_parliamentarians":[""],
             "founders":["Carlo Calenda"],
             "foundation_date":"21th of November, 2019"
         },
         {
-            "name":"Europa Verde",
+            "name":"Alleanza Verdi e Sinistra (Europa Verde + Sinistra Italiana)",
             "group":"Alleanza Verdi e Sinistra",
-            "website":"https://europaverde.it/",
-            "leaders":["Angelo Bonelli"],
+            "website":"https://verdisinistra.it/",
+            "leaders":["Angelo Bonelli", "Nicola Frantoianni"],
             "deputies":[
                 "Angelo Bonelli", "Francesco Emilio Borrelli", "Devis Dori", "Nicola Frantoianni", "Francesca Ghirra", "Marco Grimaldi",
                 "Francesco Mari", "Elisabetta Piccolotti", "Luana Zanella", "Filiberto Zaratti"
             ],
             "senators":[""],
+            "eu_parliamentarians":[
+                "Cristina Guarda", "Mimmo Lucano", "Ilaria Salis", "Benedetta Scuderi", ""
+            ],
             "founders":["Angelo Bonelli", "Fiorella Zabatta"],
             "foundation_date":"10th of July, 2021"
         },
@@ -203,6 +230,7 @@
                 "Michaela Biancofiore", "Antonio de Poli", "Giorgio Salvitti", "Giovanna Petrenga", "Mario Alejandro Borghese", "Mariastella Gelmini",
                 "Antonio Guidi", "Giusy Versace"
             ],
+            "eu_parliamentarians":[""],
             "founders":["Maurizio Lupi", "Giovanni Toti", "Luigi Brugnaro", "Lorenzo Cesa"],
             "foundation_date":"21th of May, 2023"
         },
@@ -213,6 +241,7 @@
             "leaders":["Emma Bonino"],
             "deputies":["Benedetto Della Vedova", "Riccardo Magi", "Luca Pastorino"],
             "senators":[""],
+            "eu_parliamentarians":[""],
             "founders":[""],
             "foundation_date":"27 of January, 2019"
         },
@@ -225,6 +254,7 @@
                 "Lorenzo Cesa", "Andrea De Bertoldi", "Francesco Gallo", "Luigi Marattin", "Antonino Minardo", "Aboubakar Soumahoro"
             ],
             "senators":["Mario Monti (for life)", "Renzo Piano (for life)", "Liliana Segre (for life)"],
+            "eu_parliamentarians":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -235,6 +265,7 @@
             "leaders":[""],
             "deputies":["Renate Gebhard", "Franco Manes", "Manfred Schullian", "Dieter Steger"],
             "senators":[""],
+            "eu_parliamentarians":[""],
             "founders":[""],
             "foundation_date":""
         },
@@ -247,6 +278,7 @@
             "senators":[
                 "Julia Unterberger", "Luigi Spagnolli", "Pietro Patton", "Elena Cattaneo (for life)", "Meinhard Durnwalder", "Carlo Rubbia (for life)"
             ],
+            "eu_parliamentarians":[""],
             "founders":[""],
             "foundation_date":""
         }
