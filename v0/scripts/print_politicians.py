@@ -1,3 +1,5 @@
+# This file is licensed under CC-BY-SA 4.0.
+# See LICENSE or https://creativecommons.org/licenses/by-sa/4.0/ for details.
 import json
 
 class Politician():
